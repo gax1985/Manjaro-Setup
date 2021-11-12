@@ -12,7 +12,6 @@ fi
 # Python Path
 export PYTHONPATH=/home/younix/.py
 
-alias update='yay -Syyu'
 alias rang='source ranger'
 alias vpn='expressvpn'
 alias py='python3'
