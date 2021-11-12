@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="510">
+  <name>Stellar vintage</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1324997</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>64</rating>
+  <downloads>24713</downloads>
+  <installedfile>/home/younix/.local/share/wallpapers/stellarvintage.jpg</installedfile>
+  <id>1324997</id>
+  <releasedate>2019-09-16</releasedate>
+  <summary>Space wallpaper with small vintage touch</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/7/8/1/d6c8df14a475e33537b75ecb3a7389a42d98.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/7/8/1/d6c8df14a475e33537b75ecb3a7389a42d98.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njg2MTI2NTEiLCJvIjoiMSIsInMiOiI4ZTY0MWE2MzUzYjEzMDZkMGMxNDU5NWZkMzUwYjEyZjRmNGYyOWQyNDUwYTU2YjQ2MjE2NWQ2NjgwNTg0YTkyMzgxMjZhNDg3MDBiZjRiMjJhYjVkMGNkZjc5ZTc3Mjg5Mjk5MGQzMjUxODg3MTc3ZTdhNmRhZTY2NGNiZTExYSIsInQiOjE2MzYxNzg3MTIsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.lf6_1mk9Jb1m8Is61uX5KJNEKA-lbiIxbtevbC_-QY4/stellarvintage.jpg</payload>
+  <tags>gplv3,wallpaper,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="298">
+  <name>OneDark WavesAerial</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1380825</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>3885</downloads>
+  <installedfile>/home/younix/.local/share/wallpapers/WavesAerial.jpg</installedfile>
+  <id>1380825</id>
+  <releasedate>2020-05-05</releasedate>
+  <summary>WavesAerial wallpaper for OneDark color scheme</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/e/2/f/7d53cfd846232f866b499f1ed806d15f9205.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/e/2/f/7d53cfd846232f866b499f1ed806d15f9205.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg2NjIwNDMiLCJvIjoiMSIsInMiOiI1OGZkNjhhN2Q5MTFjYjY0MzJkYjVlMmNiZTQ0ZjZmNjNkYWRiOTQxNzg0ZWJjNmNmMDgzYTQzNjYxZTM2Nzc3MzBlOWIwNDAwM2JiY2UxZDBjOTM3YTU3OWI4MThhOTcxOTBkMDg2OTM3YTQ5YzczMDNjOTFkYTc0OTE2ZWNmNyIsInQiOjE2MzYxODA2ODEsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.tnYEm3c1DVJTQeZVjaLBU4VEfWVVutpJy_P4hRntZWU/WavesAerial.jpg</payload>
+  <tags>cc-by-sa,wallpaper,artwork,nature</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>PopKdeDark wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1327326</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>51334</downloads>
+  <installedfile>/home/younix/.local/share/wallpapers/tony-webster-97532.jpg</installedfile>
+  <id>1327326</id>
+  <releasedate>2019-09-26</releasedate>
+  <summary>Wallpaper by PopOs !  for look and feel PopKdeDark theme. &lt;br />
+&lt;br />
+Source: https://system76.com/swag/desktop-wallpapers</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/9/5/b/c7aaf56795d6697219f3fefe434d6be49899.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/9/5/b/c7aaf56795d6697219f3fefe434d6be49899.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk1NDAyMTYiLCJvIjoiMSIsInMiOiI0YWI0NTlkYTI3NDBlMmUyODE4MjgwYjQ2MzY4NTJmNGQ2NDU4ODFkNzM0ZmEyNjA2ODFlNTJkNDhmZjUxMWU5Mjc5MWJiMmNkNjYxNjI5YWVhOTc3MTcyNDNlOTIyZmJmZDI4NmJhN2E4MDQ2NDNkMzM0OTkxNTUwYzlhYzE3YiIsInQiOjE2MzYxNzg3MjAsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.s6rKmcc3p0MbJf1GqS4g3ICJ1NRPnaD_-P4b_vU2sZ0/tony-webster-97532.jpg</payload>
+  <tags>pop_os,gplv3,wallpaper,artwork,plasma,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Materia Dark 4K</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1476107</homepage>
+  <licence></licence>
+  <version>20210129</version>
+  <rating>58</rating>
+  <downloads>21314</downloads>
+  <installedfile>/home/younix/.local/share/wallpapers/Materia-Dark/*</installedfile>
+  <id>1476107</id>
+  <releasedate>2021-01-29</releasedate>
+  <summary>Material Dark 4K wallpaper for Materia Dark pack&lt;br />
+This version for comphortable night usage</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/0/4/b/67ba488848ffcd6e3e48594c8c3bf75f93e6a07634b9626f3493d3a79bc1bce3f586.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/0/4/b/67ba488848ffcd6e3e48594c8c3bf75f93e6a07634b9626f3493d3a79bc1bce3f586.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTE5MDQ4MzQiLCJvIjoiMSIsInMiOiIzZWU1NTlkODM5YzcwMTBhNWI2MjY5MzFhNGNlZTMzZGQyMzU4YzYyZjVlMGIzM2QyZGZhMmI0ZDgzOTgwOGZjOTYzNGM3ODlkZTIxNDlkNTM5ZmVlOTZmNDNlYzlkMjEzMGE5YzI5M2QzZDUxZThjZDdiNGM0ZmY0ZjUyYjQ3NyIsInQiOjE2MzYxODI2ODcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.TozEZHBMwc0PB_DfxzMH2n5S3_kW38rzJJSIobwzhEQ/Materia-Dark.tar.gz</payload>
+  <tags>wallpaper,artwork,plasma,kde,cc0,original-product,dark,materia,material</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>McSur-light Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1402090</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>19836</downloads>
+  <installedfile>/home/younix/.local/share/wallpapers/McSur-light/*</installedfile>
+  <id>1402090</id>
+  <releasedate>2021-01-27</releasedate>
+  <summary>McSur kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+    &lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406038/" target="_blank" rel="nofollow">https://www.pling.com/p/1406038/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-light Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402092/" target="_blank" rel="nofollow">https://www.pling.com/p/1402092/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402093/" target="_blank" rel="nofollow">https://www.pling.com/p/1402093/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402091/" target="_blank" rel="nofollow">https://www.pling.com/p/1402091/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402095/" target="_blank" rel="nofollow">https://www.pling.com/p/1402095/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1402094/" target="_blank" rel="nofollow">https://www.pling.com/p/1402094/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406026/" target="_blank" rel="nofollow">https://www.pling.com/p/1406026/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406030/" target="_blank" rel="nofollow">https://www.pling.com/p/1406030/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406025/" target="_blank" rel="nofollow">https://www.pling.com/p/1406025/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406032/" target="_blank" rel="nofollow">https://www.pling.com/p/1406032/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1406027/" target="_blank" rel="nofollow">https://www.pling.com/p/1406027/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1406023/" target="_blank" rel="nofollow">https://www.pling.com/p/1406023/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-alt Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1448409/" target="_blank" rel="nofollow">https://www.pling.com/p/1448409/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>BigSur icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1399044/" target="_blank" rel="nofollow">https://www.pling.com/p/1399044/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/e/d/c/6571ab805c2ffc9fc6c1637cd9b93e474cd1.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/e/d/c/6571ab805c2ffc9fc6c1637cd9b93e474cd1.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTE3NDAxNzIiLCJvIjoiMSIsInMiOiIyOGNhMTdmMzQ1ODRmZmJkOTA3YWY1N2E2NzMxZDgzNzA4NGFjNzIwYmY0YjU5OTE4ZTllNjgzNzYwZGY0OWU2MjNlNmY5MzM4NmU5NzQ4NzkzZDJlYjljMzYxZDc2MjViZTE3NjJlZTg5MDFjNWY2ZDNmZWZiYTQwNjk4MWI0YiIsInQiOjE2MzYxODI0NDAsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.P_j7dZ6ML1s11Bo1jlYAMP0tlBjIvfAvM9CZ2X5W3hw/McSur-light.zip</payload>
+  <tags>wallpaper,artwork,plasma,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="298">
+  <name>Sea aerial 4/5</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1380829</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>50</rating>
+  <downloads>3921</downloads>
+  <installedfile>/home/younix/.local/share/wallpapers/WavesAerial 4.5 .jpg</installedfile>
+  <id>1380829</id>
+  <releasedate>2020-05-05</releasedate>
+  <summary>WavesAerial version 2  wallpaper for OneDark color scheme</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/e/c/5/6360719bcb82941eb3c87b23374bb47e0c42.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/e/c/5/6360719bcb82941eb3c87b23374bb47e0c42.jpg</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg2NjIzMzgiLCJvIjoiMSIsInMiOiI0ZTNhYjQwOWI5OTAwY2U2YWNkZDJiNTc1NmVjNDkyZThiMTIzMDEzNmFiZWU4ODY0Njk5MTQyYWUzNWNjY2NhZjQ0MjBhODU3MDkzYWZmNzFjNGJjYjhjNzgzNjhlMGRmNjE2NmIxYmZmN2Q3MDNmYmUxN2QyYzU5MmRhZDIwZSIsInQiOjE2MzYxODA2NzUsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.v_S11rrGOKb-dN1_hMTGvbRTSwe2ofMjW58SxB2Ea-8/WavesAerial 4.5 .jpg</payload>
+  <tags>dark,sea,waves,cc-by-sa,wallpaper,artwork,nature</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Layan wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1309218</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>215630</downloads>
+  <installedfile>/home/younix/.local/share/wallpapers/JSoHhU-Layan/*</installedfile>
+  <id>1309218</id>
+  <releasedate>2020-05-19</releasedate>
+  <summary>Layan wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/5/c/d/56c7cecf6cbf36ae3c18198c0874278fbbc3.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/5/c/d/56c7cecf6cbf36ae3c18198c0874278fbbc3.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODk4NzY2NzAiLCJvIjoiMSIsInMiOiIzOWE4NDE1ZDdiOGNmMzNlYWZlMDM4ZTEwZTkxZWU1NzZlYjI5YjRjNjMyY2ViNzYzZDdlMjRlN2VmYjQzZDEyNWU4Nzc4OWRkN2I3OGYwOWRjNzRkNDRlMzgzNjkyZTFhNTI3MzI2YjVkMDZkYjZkMzQ2Zjc2MmIxMzJiYjBmMSIsInQiOjE2MzYxODI2MTgsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.8oFcl_3b269dWbtEWAb3-IECWvaCu0C6jUjOE4b0lls/Layan.tar.xz</payload>
+  <tags>wallpaper,artwork,plasma,kde,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>KDE One Dark Wallpapers</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>prayagjain</author>
+  <homepage>https://store.kde.org/p/1571655</homepage>
+  <licence></licence>
+  <version>v1</version>
+  <rating>58</rating>
+  <downloads>4847</downloads>
+  <installedfile>/home/younix/.local/share/wallpapers/cZALrt-One-Dark-Wallpapers/*</installedfile>
+  <id>1571655</id>
+  <releasedate>2021-08-09</releasedate>
+  <summary>Minimalist wallpapers based on the "One Dark" colour scheme with a KDE logo in the middle!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/0/4/2/9f11daa4c55e327566caa61095b38e777392ba925ac36137c7cddce301942866d6a0.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/0/4/2/9f11daa4c55e327566caa61095b38e777392ba925ac36137c7cddce301942866d6a0.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjg1MzEwNzAiLCJvIjoiMSIsInMiOiJhNWE3YmFiMTc4ZGM5YTk3MzJmMzk0MTAxOWM1N2NkNzhiNmMwNTY0YTk2NzZjMDY2YjgyZmQxOTY4MzgyYWQ1YmRlZDQyODgxNzVjNzMzYWQwZGQ2NDU1NThiNmZmZjEwY2YwMTQyODZlYTgyYjg2ODhhMjk2NDRlMzc5ZGZmZiIsInQiOjE2MzYxODA2MzUsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.1t1BCoFspQj0cSirSQGqd-1sP-uwf21iuYQsIR5CNoM/One-Dark-Wallpapers.tar.gz</payload>
+  <tags>wallpaper,one,dark,gplv3,original-product,artwork,plasma,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=2 exec:///usr/bin/plasma-discover,1 browserhistory_REQUEST_PERMISSION,1 file:///usr/share/spotify,2 exec:///usr/bin/spotify,15 exec:///usr/bin/firefox,1 exec:///usr/share/discord/Discord,25 exec:///usr/bin/systemsettings5
+
+[PlasmaRunnerManager][History]
+56a19c48-e29b-474a-894f-899448f164ec=firefo,settings,spotify,spot,disco,firef

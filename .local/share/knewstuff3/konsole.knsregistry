@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Nordic konsole</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1329371</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>43667</downloads>
+  <installedfile>/home/younix/.local/share/konsole/Nordic.colorscheme</installedfile>
+  <id>1329371</id>
+  <releasedate>2019-10-08</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1326896/" target="_blank" rel="nofollow"> Nordic Plasma theme...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/6/c/7/a8e4ad61130ea319918c9ca217fd145964c7.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/6/c/7/a8e4ad61130ea319918c9ca217fd145964c7.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzA1NjA5MjMiLCJvIjoiMSIsInMiOiI5MzcwMTIzOTgzNmYwMmQ5ZmVlMjI0N2NmNWFmNzk3MmFmOTg0YWQzNGVlMTI1MDk0YzNhNjE4NDcyNzYwMTk2ZDJmNmIxMjllOTA3MzE2ZmQ1YjNiYmM1Yjk4MzU4OWI4YWU5NjcwMTVmNzc4ODljODMwMTI2YTdkNDIyMjg1NCIsInQiOjE2MzYxNzkzNTgsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.khQh9NqS9KiBo0_pTZunnMTaTNQ8_pg2vQFBmPgwMDs/Nordic.colorscheme</payload>
+  <tags>addon,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Dracula</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>tiny6996</author>
+  <homepage>https://store.kde.org/p/1310950</homepage>
+  <licence></licence>
+  <version>0.0.2</version>
+  <rating>50</rating>
+  <downloads>26217</downloads>
+  <installedfile>/home/younix/.local/share/konsole/Dracula.colorscheme</installedfile>
+  <id>1310950</id>
+  <releasedate>2019-06-22</releasedate>
+  <summary>A konsole theme based on the Dracula Theme</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/2/b/e/8861312a57cfafded6aea59e41c0f3518757.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/2/b/e/8861312a57cfafded6aea59e41c0f3518757.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjExODI3MjQiLCJvIjoiMSIsInMiOiIzOWViNzI2MDllZTU3NjU2ZmRjM2QwNWFjYjc3ZTlmNDVlZWZmYWM2MzJkNDM0NzdkYWUzMDE3YjY5MjRiNWE4NTRmNmEzZTQ4NWYwNmFkNTM1NGEzODUxYTJjZjg4YTFmMzhkNjhjYzYwZTRmZTJkOTQxZjk5ZjY1Y2E3MWVhNSIsInQiOjE2MzYxNzkzNjksInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.yXx5aqi33pirxb8rP4T4_CJWPhT1Fu8D1aDQsmuE9tE/Dracula.colorscheme</payload>
+  <tags>addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Gruvbox konsole</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1327725</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>70</rating>
+  <downloads>21525</downloads>
+  <installedfile>/home/younix/.local/share/konsole/Gruvbox.colorscheme</installedfile>
+  <id>1327725</id>
+  <releasedate>2019-09-29</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong>Gruvbox theme&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+Based on the gruvbox scheme colors for vim [https://github.com/morhetz/gruvbox](https://github.com/morhetz/gruvbox).&lt;br />
+&lt;br />
+&lt;span style="color: #282828;">◼&lt;/span>&lt;span style="color:...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk3MzY4MjIiLCJvIjoiMSIsInMiOiI5N2QzZWI5ZGZkYTVmNmNhZWQxYTIxNTAxMmEwM2I1YzliMTAyMmI3MGMyMGM4ZWIwZDI4NGU1MDAyOGU4NmZhMDhlNmI1NWVlYmQ4MDNlYjQ4OWIxNWU2ODRiY2UwMWIxZTRmZGM1OTFkNDBjNjIxNjU2MGY5NjZhM2RjNGM4NyIsInQiOjE2MzYxNzkzNDcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.ucSxPYAZJDMj7Wi-AF3vmJmz5M18V-BWYj-AYGBSKVU/Gruvbox.colorscheme.tar.gz</payload>
+  <tags>addon,original-product,gplv3,konsole</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Breeze Light Konsole</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>prtk-alpha</author>
+  <homepage>https://store.kde.org/p/1268525</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>5199</downloads>
+  <installedfile>/home/younix/.local/share/konsole/Breeze Light.colorscheme</installedfile>
+  <id>1268525</id>
+  <releasedate>2018-10-16</releasedate>
+  <summary>A variation of https://github.com/sonph/onehalf with Breeze colors for Konsole.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/4/6/f/fe777b272caf57bd6d2f1672cfe2db98e564.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/4/6/f/fe777b272caf57bd6d2f1672cfe2db98e564.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Mzk3MDg0NjIiLCJvIjoiMSIsInMiOiIyYWQ5MTE5MDQ3Nzg5ZWQ0OTJiYzE3OGRhYzQ0MGFjZTk2ZGUyOTlhNGYwM2JhNmMyNjkzNjE0Zjg5ZTJjYTViMzgzZWU1ZGY2OGM3MTA0NzRjYmNhNWEyMzVjYTAwODBiMDY3NDlhZDAyZjE0YzI3NmFjOWMzMjc4NGExZmNhOCIsInQiOjE2MzYxODMwMjQsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.dZeiK8mFAGv4SauNQsYLlbj4unxJOt-vGEF4lslV23k/Breeze Light.colorscheme</payload>
+  <tags>source-package,gplv3,addon,breeze,konsole,light</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="399">
+  <name>Split Digital Clock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1324315</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>66</rating>
+  <downloads>82297</downloads>
+  <installedfile>/home/younix/.local/share/plasma/plasmoids/org.kde.plasma.splitdigitalclock</installedfile>
+  <id>1324315</id>
+  <releasedate>2020-06-28</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong>Split Digital Clock&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+Features: &lt;br />
+* Vertical panel and desktop&lt;br />
+ - Split format 12/24 format&lt;br />
+* Horizontal panel, one line format&lt;br />
+&lt;span style="color: #ff5500;">Easy-adjust for height percentage of panel&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Installation &lt;/strong>&lt;/span>&lt;br />
+Run the code:   &lt;code>&lt;span style="color: #000000">
+plasmapkg2&amp;nbsp;--install&amp;nbsp;org.kde.plasma.splitdigitalclock.tar.gz&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Upgrade&lt;/strong>&lt;/span>&lt;br />
+Run the code:   &lt;code>&lt;span style="color: #000000">
+plasmapkg2&amp;nbsp;--upgrade&amp;nbsp;org.kde.plasma.splitdigitalclock.tar.gz&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;br />
+More:&lt;br />
+* Launcher: &lt;a href="https://www.pling.com/p/1324206/" target="_blank" rel="nofollow"> NavDexie menu&lt;/a>&lt;br />
+* Icons: &lt;a href="https://www.pling.com/p/1324180/" target="_blank" rel="nofollow"> Dexie icons&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+Thanks for all the support. If you like my work &lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a>&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/d/a/3/4b1ab075de636fe2704c9e031691e2207f0c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/d/a/3/4b1ab075de636fe2704c9e031691e2207f0c.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTMzMjE3MjYiLCJvIjoiMSIsInMiOiI0YmM4ZDhhMjc5NzAxZjE4NWE3YjYzODc0NDQ3NzBhY2UxMTk2MmM5ZmRkOWI0ZTUzZWMyZDdiMjVlMjdmMzJiYjUxZDFlNWUzZGRjMTQ2ZTRjMzgyOTUxOGE0M2IzNmYwOTZkNWNlNjhiZGE3MWIyYmVjMTNjN2FhOWQxNDVmZSIsInQiOjE2MzYxNzg3MDcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.BFHlxeGjSb-Q1EcPuRgOi8AKxRWSvCW_w3bUmjc1OGw/org.kde.plasma.splitdigitalclock.tar.gz</payload>
+  <tags>gplv3,original-product,linux,unix,extension,kde,plasma,plasma##majorversion=5,widget,clock</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>NavDexie menu</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1324206</homepage>
+  <licence></licence>
+  <version>0.14</version>
+  <rating>74</rating>
+  <downloads>61550</downloads>
+  <installedfile>/home/younix/.local/share/plasma/plasmoids/org.kde.plasma.navdexie</installedfile>
+  <id>1324206</id>
+  <releasedate>2019-09-20</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong>NavDexie menu&lt;/strong>&lt;/span>&lt;br />
+Configurable dashboard menu applications &lt;br />
+&lt;br />
+---------------------------------------------------------------&lt;br />
+| open menu | show desktop | expose applications |&lt;br />
+---------------------------------------------------------------&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Installation:&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+1. Download the package &lt;br />
+Right click on desktop &amp;gt; add widgets &amp;gt; get new widgets &amp;gt; install from file &amp;gt; select file.&lt;br />
+&lt;br />
+2. Download the package  and run the command:&lt;br />
+&lt;code>&lt;span style="color: #000000">
+&amp;nbsp;plasmapkg2&amp;nbsp;-i&amp;nbsp;org.kde.plasma.navdexie.plasmoid&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+3. Online&lt;br />
+Right click on desktop &amp;gt; add widgets &amp;gt; get new widgets &amp;gt; download online &amp;gt; search "NavDexie" &amp;gt; install.&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Customizations fullscreen menu: &lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+- Color as background&lt;br />
+- Image as background&lt;br />
+- Light and dark themes&lt;br />
+&lt;br />
+Customizations widget in the panel: &lt;br />
+- Colorize icon app&lt;br />
+- Hide/show three buttons&lt;br />
+- Transparent&lt;br />
+- Light and dark themes&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Icons&lt;/strong>&lt;/span>  Dexie icons - &lt;a href="https://www.pling.com/p/1324180/" target="_blank" rel="nofollow">HERE&lt;/a>&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Clock&lt;/strong>&lt;/span> Split digital clock - &lt;a href="https://store.kde.org/p/1324315" target="_blank" rel="nofollow">HERE&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+If you like my work &lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a>.&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/c/3/5/2f520273e2ec1c8f872759ba21ba6ad7ed85.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/c/3/5/2f520273e2ec1c8f872759ba21ba6ad7ed85.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njg5OTc1NDMiLCJvIjoiMSIsInMiOiJlZmQ5NzlmODY5ZDNkNWQ1YmU1YjhjM2VhNDg3OTdhNjQxZWI1ZDE2NjMzOWNhNGE4NGIxYTJkMDU4MTJiZGQwMTgwOGMxM2I3ODVhNzMzYmQyNmNlNmJiNjNkNjQ0N2RmZDZhZGVhNzk4NTcwZDI2ZDQzZGFiZjRjMGQwZDk4MCIsInQiOjE2MzYxNzg3MDEsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.xBkxSytTa0u-vmmf2qIKlZz3frxmr9SMUvrdKYXdiUI/org.kde.plasma.navdexie.plasmoid</payload>
+  <tags>original-product,gplv3,menu,kde,linux,unix,extension,plasma,plasma##majorversion=5,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Simple Pager Virtual Desktop</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1364071</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>68</rating>
+  <downloads>39503</downloads>
+  <installedfile>/home/younix/.local/share/plasma/plasmoids/SimplePager</installedfile>
+  <id>1364071</id>
+  <releasedate>2020-03-02</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong> Simple pager for virtual desktops.&lt;/strong>&lt;/span> &lt;br />
+&lt;br />
+Indicator for virtual desktops - Plasma&lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>Installation&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+Download the package and execute the following command from your terminal (for install or upgrade). &lt;br />
+&lt;br />
+&lt;code>&lt;span style="color: #000000">
+﻿plasmapkg2&amp;nbsp;--install&amp;nbsp;SimplePager.plasmoid&lt;/span>
+&lt;/code>&lt;br />
+&lt;strong>or&lt;/strong> &lt;br />
+&lt;code>&lt;span style="color: #000000">
+﻿plasmapkg2&amp;nbsp;--upgrade&amp;nbsp;SimplePager.plasmoid&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>Use&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
++ Right click on panel &amp;gt; add widgets &amp;gt; search "SimplePager" &lt;br />
+&lt;strong>or&lt;/strong>&lt;br />
++ Right click on another menu &amp;gt; Show alternatives &amp;gt; Select SimplePager&lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>you can try my other works&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1327723/" target="_blank" rel="nofollow">Gruvbox theme&lt;/a> &lt;br />
+&lt;a href="https://store.kde.org/p/1327331/" target="_blank" rel="nofollow">PopKde Light &lt;/a>&lt;br />
+&lt;a href="https://store.kde.org/p/1327332/" target="_blank" rel="nofollow">PopKde Dark &lt;/a>&lt;br />
+&lt;a href="https://store.kde.org/p/1313728/" target="_blank" rel="nofollow">Pear Dark (animated theme) &lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+If you like my work :&lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a>&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/3/5/d/ca9f14ffb5fd219b26ab01b272f79f6d2b35.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/3/5/d/ca9f14ffb5fd219b26ab01b272f79f6d2b35.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODMyMDk4MTYiLCJvIjoiMSIsInMiOiJiYjU5NTY3N2Y1ODJmMDljOWQwOGVkNDRhZjZkMzEwYzBiZDA2OTJmNWQ3YzRkZGFkMmFjNjM5NWEwMDgwZTlmN2IyMWI2NWNmNmZmYTFlNjkzYmY2NDM4ZGI3M2ZkMmZjNWQ0ZTRmZTM0OGM3ZDI3N2U4YjIzM2Y0MWY0ZDY0ZCIsInQiOjE2MzYxODA2NjYsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.gdvo643dQ9APmYAlTHE8LxfG9Ob_QXgfIz-r-LLAxJU/SimplePager.plasmoid</payload>
+  <tags>gplv3,original-product,indicator,desktops,plasma,linux,unix,extension,kde,plasma##majorversion=5,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>Launchpad Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1364064</homepage>
+  <licence></licence>
+  <version>0.3</version>
+  <rating>84</rating>
+  <downloads>34486</downloads>
+  <installedfile>/home/younix/.local/share/plasma/plasmoids/launchpadPlasma</installedfile>
+  <id>1364064</id>
+  <releasedate>2021-07-01</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong>Launchpad applications menu for plasma.&lt;/strong>&lt;/span> &lt;br />
+&lt;br />
+Full-screen menu grid of icons.&lt;br />
+&lt;br />
+&lt;strong>Based on &lt;/strong>&lt;br />
++ DashBoard Menu &lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>Installation&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+Download the package and execute the following command from your terminal (for install or upgrade). &lt;br />
+&lt;br />
+&lt;code>&lt;span style="color: #000000">
+﻿plasmapkg2&amp;nbsp;--install&amp;nbsp;launchpadPlasma.tar.gz&lt;/span>
+&lt;/code>&lt;br />
+&lt;strong>or&lt;/strong> &lt;br />
+&lt;code>&lt;span style="color: #000000">
+﻿plasmapkg2&amp;nbsp;--upgrade&amp;nbsp;launchpadPlasma.tar.gz&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>Use&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
++ Right click on panel &amp;gt; add widgets &amp;gt; search "launchpad plasma" &lt;br />
+&lt;strong>or&lt;/strong>&lt;br />
++ Right click on another menu &amp;gt; Show alternatives &amp;gt; Select Launchpad Plasma&lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>you can try my other works&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1327723/" target="_blank" rel="nofollow">Gruvbox theme&lt;/a> &lt;br />
+&lt;a href="https://store.kde.org/p/1327331/" target="_blank" rel="nofollow">PopKde Light &lt;/a>&lt;br />
+&lt;a href="https://store.kde.org/p/1327332/" target="_blank" rel="nofollow">PopKde Dark &lt;/a>&lt;br />
+&lt;a href="https://store.kde.org/p/1313728/" target="_blank" rel="nofollow">Pear Dark (animated theme) &lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #17B529;">&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+If you enjoy my content, please consider supporting what I do:&lt;br />
+&lt;br />
+&lt;img src="https://raw.githubusercontent.com/adhec/plasmaX/master/coffee.png" alt="coffee" />&lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a> and comment.&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/3/d/6/c71c76db880cc9919dc825416aee914e3765812d9e3bb29e854e3d888274d9ed6e11.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/3/d/6/c71c76db880cc9919dc825416aee914e3765812d9e3bb29e854e3d888274d9ed6e11.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjUxNTY2NzQiLCJvIjoiMSIsInMiOiI5YzRkZTc4ZjhjNGI4NzFkMjFlZTA1OWMxMjlkNzJhYTU0ODU3MTRkZTNkNmVhMjU2MzEzZjNhYmJlZWVjNmYwYzM5NjBlYjlkODMyYjg3N2U5NGYzNzYxMzk1MGQ0MzNmN2NiYzUzNmExN2IyMDExZjFiY2Q4OTU4ZmQ2MzY5NSIsInQiOjE2MzYxODA2NjAsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.KL2X05_4TSf3vC1vCc0Elj2GK01K4zHnUKAcMPrv_Y4/launchpadPlasma.tar.gz</payload>
+  <tags>linux,unix,extension,kde,plasma,plasma##majorversion=5,widget,menu,fullscreen,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

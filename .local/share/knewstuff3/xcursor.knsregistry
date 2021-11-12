@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Layan cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1365214</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>89</rating>
+  <downloads>291738</downloads>
+  <installedfile>/home/younix/.icons/Layan-border-cursors/*</installedfile>
+  <id>1365214</id>
+  <releasedate>2020-03-30</releasedate>
+  <summary>Layan cursors theme for linux desktop</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/9/f/c/bf76830de87b7aac326717685c9301cb2f89.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/9/f/c/bf76830de87b7aac326717685c9301cb2f89.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODUxMTQ4NDgiLCJvIjoiMSIsInMiOiI3M2E4ZWM2NDkyZWFjNjRkY2NmMmMwM2M1N2NkNDU5ZDhmNDU0NTM4OTE4ZDRiZjRkMTAzODMyMDk4ODcxY2MwZTQyOTlmNzBmNGEzYjNlMGRhZjIxNmI2NTA4MWIyYTAwYmE4OThjYTQ3YmVhNzJiMjExN2JlOTU0ZThlZmZjMCIsInQiOjE2MzYxODI2MzksInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.CBrOSSDkxreIZFaKt7tuCruQt-7kIIa666kkQQpUQOg/01-Layan-border-cursors.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,cursor</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Fossa Cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1377483</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>78</rating>
+  <downloads>54045</downloads>
+  <installedfile>/home/younix/.icons/FossaCursors/*</installedfile>
+  <id>1377483</id>
+  <releasedate>2020-04-22</releasedate>
+  <summary>&lt;span style="color: #1E92F7;">&lt;span style="text-decoration: underline;">&lt;strong>Fossa cursors &lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+Cursor theme for Linux: &lt;br />
+&lt;br />
+Extract the content in  &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/icons/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;br />
+-----------------------------------------------------------------------------------&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="text-decoration: underline;">&lt;span style="color: #1E92F7;">- Plasmoids for KDE&lt;/span>&lt;/span>&lt;/strong>&lt;br />
+&lt;br />
+* Main launcher:  [/url]&lt;a href="https://www.pling.com/p/1367178/" target="_blank" rel="nofollow">Menu X&lt;/a>  (under development for compatibility with Kubuntu)&lt;br />
+* Launcher search panel: &lt;a href="https://www.pling.com/p/1367167/" target="_blank" rel="nofollow">Menu Z&lt;/a>&lt;br />
+* Clock: &lt;a href="https://www.pling.com/p/1324315/" target="_blank" rel="nofollow">Split digital clock&lt;/a>&lt;br />
+* Virtual desktops indicator &lt;a href="https://www.pling.com/p/1364071/" target="_blank" rel="nofollow">Simple pager&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #17B529;">&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+If you enjoy my content, please consider supporting what I do:&lt;br />
+&lt;br />
+&lt;img src="https://raw.githubusercontent.com/adhec/plasmaX/master/coffee.png" alt="coffee" />&lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a> and comment.&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/8/f/4/49c6ae98b0f683b8281eccf00e4965eae1b7.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/8/f/4/49c6ae98b0f683b8281eccf00e4965eae1b7.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODc1Mzc3OTkiLCJvIjoiMSIsInMiOiI2ZDQ4NzBjMzQzZWRhODdkODlkYmQ5MWFjN2YzNDlmY2Y5ZDM2NjY4YTIxMGEwNjRlNWNkZmUwOWRlY2QzZTNmYmI5NzllMTkwMmNkNGMzNGRkZDVlZjgwYWQwOTgwMzUyZmZhNWNiMGRlMzIxNzk5MmNmYTk2N2MyYmI4ZGNkZSIsInQiOjE2MzYxODA2ODcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.TTarC3GYaZL_qDuGKtfANg6A_vKQmNS5mUFapyibKis/FossaCursors.tar.gz</payload>
+  <tags>cursor,linux,kde,gnome,unix,original-product,cc-by-sa</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Material Cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1346778</homepage>
+  <licence></licence>
+  <version>20200119</version>
+  <rating>86</rating>
+  <downloads>85910</downloads>
+  <installedfile>/home/younix/.icons/material_cursors/*</installedfile>
+  <id>1346778</id>
+  <releasedate>2020-01-19</releasedate>
+  <summary>Material cursors with 3 color variant:&lt;br />
+- Material (Blue Grey)&lt;br />
+- Dark&lt;br />
+- Light</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/9/b/9/468e54f7c21b8ffa123133cb72b54f804490.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/9/b/9/468e54f7c21b8ffa123133cb72b54f804490.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzk0OTUzNTgiLCJvIjoiMSIsInMiOiI2OTIyZjdkNTkxNzhiNTFjNjUzYzcwZDJjMDk5NjI5NDA2MzZlYTI5NWY3ZTFlOGJkMWNmMjJkYjdhNjMzNGM3NTZlOGM1M2I4YzEyZDEyNTQ0OWQ4NWNhZDZkZDM3ZDIwOTY1OTI1MDI0NWUzNmViMTVkZjcxNWU3ZmQ1ZmI1YSIsInQiOjE2MzYxODI2ODAsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.0MdHnFhAxrrgRViS4ODElXhdeipIojmOrFb0b9J2RVU/material_cursors.tar.gz</payload>
+  <tags>original-product,gplv2-later,linux,unix,cursor,material,papirus,cursors</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>PearDarkCursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1312474</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>69</rating>
+  <downloads>83477</downloads>
+  <installedfile>/home/younix/.icons/PearDarkCursors/*</installedfile>
+  <id>1312474</id>
+  <releasedate>2019-09-26</releasedate>
+  <summary>Cursor theme based on a breeze and deepin theme cursor.&lt;br />
+&lt;br />
+Thanks to&lt;br />
+&lt;ul>&lt;li> VDG KDE&lt;/li>&lt;li> Deepin team&lt;/li>&lt;/ul></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/f/5/6/a0b361d058ed6cb2294c98cf87e5f383a018.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/f/5/6/a0b361d058ed6cb2294c98cf87e5f383a018.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk1MjQ0OTYiLCJvIjoiMSIsInMiOiJkOTBlMGUyM2VlZDk4ODQ2NzdiOGEzMGRjNDBhMWY2NjNhMjY0MTRmZTczZTJlNzdiZDYwNDMxMzAzYjM4YjU1MzRlNzliMmM0Zjc1Nzk3Nzg5ZTYwOGQ1MWJjOWU3ZTY4NDM1MzgzYTE5Mzk0MmVkN2JiN2M3NTg1ZGJhYWE2MSIsInQiOjE2MzYxNzg3MjYsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.pIhKH_pV1lGNLbwBftQiCJu4MKIuxnI9LsrZ3SHzKpM/PearDarkCursors.tar.gz</payload>
+  <tags>cc-by-sa,linux,unix,cursor,theme,deepin,breeze</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,6 @@
+shell git clone http://github.com/YoussefE95/GnomeThemeSetter
+shell c
+shell sudo apt install ./discord-0.0.16.deb
+shell mkdir Kubuntu-Setup
+rename Wallpapers
+shell code .

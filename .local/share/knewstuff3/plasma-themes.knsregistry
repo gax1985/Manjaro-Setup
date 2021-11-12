@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Ant Dracula Solid KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1420691</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>4085</downloads>
+  <installedfile>/home/younix/.local/share/plasma/desktoptheme/Dracula-Solid</installedfile>
+  <id>1420691</id>
+  <releasedate>2021-10-13</releasedate>
+  <summary>A dark theme created using the awesome &lt;a href="https://draculatheme.com/" target="_blank" rel="nofollow">Dracula&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested setings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370681/" target="_blank" rel="nofollow">Dracula Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370682/" target="_blank" rel="nofollow">Draula Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370679/" target="_blank" rel="nofollow">Dracula colorscheme&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/c/3/7/b2ca853a29dc005a887b321ae4a0698942dcdb6c5692be2878b60c2eccc580b640be.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/c/3/7/b2ca853a29dc005a887b321ae4a0698942dcdb6c5692be2878b60c2eccc580b640be.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzQxNTgwODciLCJvIjoiMSIsInMiOiJjMTFjMGRjOWRiYmQ3ZDZkY2M4Mzg5Zjc2NGVlOTU0YjY2ZDUyN2Y0MjQ4NTExNTNkNzlhNmNiNjZmNDQ5ODRhNmUyOGY5MGJmOTljYTkzMjkyMDBjNDc2ZWI5YmRkMTk3ODFjNDAyNmMxMjRhYTA1NjI4MDU0YjM0MDhkNDJlZiIsInQiOjE2MzYxNzg2OTgsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.UulGb_xQjCpZpKmc9_jI3eiZ4BYYdGhVVAy-gMdQL48/Dracula-Solid.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Gruvbox plasma theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1327719</homepage>
+  <licence></licence>
+  <version>0.11</version>
+  <rating>69</rating>
+  <downloads>29261</downloads>
+  <installedfile>/home/younix/.local/share/plasma/desktoptheme/default</installedfile>
+  <id>1327719</id>
+  <releasedate>2019-10-01</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong>Gruvbox plasma theme for Plasma&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+Based on the gruvbox scheme colors for vim [https://github.com/morhetz/gruvbox](https://github.com/morhetz/gruvbox).&lt;br />
+&lt;br />
+&lt;span style="color: #282828;">◼&lt;/span>&lt;span style="color: #fb4934;">◼&lt;/span>&lt;span style="color: #b8bb26;">◼&lt;/span>&lt;span style="color: #fabd2f;">◼&lt;/span>&lt;span style="color: #83a598;">◼&lt;/span>&lt;span style="color: #d3869b;">◼&lt;/span>&lt;span style="color: #8ec07c;">◼&lt;/span>&lt;span style="color: #fe8019;">◼&lt;/span>&lt;br />
+&lt;span style="color: #fbf1c7;">◼&lt;/span>&lt;span style="color: #cc241d;">◼&lt;/span>&lt;span style="color: #98971a;">◼&lt;/span>&lt;span style="color: #d79921;">◼&lt;/span>&lt;span style="color: #458588;">◼&lt;/span>&lt;span style="color: #b16286;">◼&lt;/span>&lt;span style="color: #689d6a;">◼&lt;/span>&lt;span style="color: #d65d0e;">◼&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Plasma, gnome, xfce, cinnamon, lxde, i3 &lt;/strong>&lt;/span>&lt;br />
+&lt;br />
++ &lt;strong>Icons&lt;/strong>&lt;a href="https://www.pling.com/p/1327720/" target="_blank" rel="nofollow"> here &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/icons/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Plasma:&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
++ &lt;strong>Look and feel&lt;/strong> &lt;a href="https://www.pling.com/p/1327723/" target="_blank" rel="nofollow"> link &lt;/a> install from systemsettings &amp;gt; look and feel &amp;gt; get new theme &lt;br />
++ &lt;strong>Color scheme&lt;/strong> &lt;a href="https://www.pling.com/p/1327717/" target="_blank" rel="nofollow"> link &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/color-schemes/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
++ &lt;strong>Plasma theme&lt;/strong> &lt;a href="https://www.pling.com/p/1327719/" target="_blank" rel="nofollow"> link &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/plasma/desktoptheme/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
++ &lt;strong>Aurorae theme&lt;/strong> &lt;a href="https://www.pling.com/p/1327718/" target="_blank" rel="nofollow"> link &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/aurorae/themes/&amp;nbsp;&lt;/span>
+&lt;/code> &lt;br />
++ &lt;strong>Konsole&lt;/strong> &lt;a href="https://www.pling.com/p/1327725/" target="_blank" rel="nofollow"> link &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/konsole/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+- Plasmoids for KDE&lt;br />
+&lt;br />
+* Launcher: &lt;a href="https://www.pling.com/p/1324206/" target="_blank" rel="nofollow"> NavDexie menu&lt;/a>&lt;br />
+* Clock: &lt;a href="https://www.pling.com/p/1324315/" target="_blank" rel="nofollow"> Split digital clock&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+If you like my work :&lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a>&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk5NjA3MDUiLCJvIjoiMSIsInMiOiJkNDQ5ZjJiYjFkOGI3ZjhjNjViYjg2OGUwYzUxYzk5ZmQ0ZTFkOTZjYTdmZjUzYWRkNDdjYWNkMDZmYWI3YzhlNDNkNzY4MDY1YzMzZDJiN2JkODE0ZGEyY2Y0YzZlMTE1OTYyMzM5NGQ5NDMzN2EwZTI5YzQ3MWU5ZWRhMDQ5YiIsInQiOjE2MzYxNzg2NzcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.StW1wvTaYJyo2qp_GuMdLwhgARFeHN5onPV9WybgM3g/GruvboxPlasma.tar.gz</payload>
+  <tags>plasma,theme,gruvbox,gplv3,linux,unix,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Ant-Dracula KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1370687</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>2859</downloads>
+  <installedfile>/home/younix/.local/share/plasma/desktoptheme/Dracula</installedfile>
+  <id>1370687</id>
+  <releasedate>2021-10-13</releasedate>
+  <summary>A dark theme created using the awesome &lt;a href="https://draculatheme.com/" target="_blank" rel="nofollow">Dracula&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested setings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370681/" target="_blank" rel="nofollow">Dracula Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370682/" target="_blank" rel="nofollow">Draula Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370679/" target="_blank" rel="nofollow">Dracula colorscheme&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/1/b/c/cd60f9e6080cfb7b77ab72d6474ae195c04e.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/1/b/c/cd60f9e6080cfb7b77ab72d6474ae195c04e.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzQxNTgwNjYiLCJvIjoiMSIsInMiOiI4YWMxMjA1YjY1ZTM0ZmZmYmFlNzU5NjA3OGJjNWRjNzQ1NWQyMDdiZmM2YzBmMTA4MmFkNzJhYzVhMDQyM2VhNzE1NjNiZDdjNDNlMTEwOTVkYTdmNmNhNDM4NmU5MGZkMWY1NDhkZTk5YTMyZmJjZjYwZDM2MGEwN2U4OTMyZiIsInQiOjE2MzYxNzg2OTIsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.jgjE2WMubVEPIS9_lmtfVTLhRRIw84QjWTmvBwxbGmE/Dracula.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Materia Dark KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1229134</homepage>
+  <licence></licence>
+  <version>20211027</version>
+  <rating>87</rating>
+  <downloads>2716</downloads>
+  <installedfile>/home/younix/.local/share/plasma/desktoptheme/Materia</installedfile>
+  <id>1229134</id>
+  <releasedate>2021-10-27</releasedate>
+  <summary>Materia pack for Plasma 5 desktop.&lt;br />
+&lt;br />
+Please use Kvantum Engine and Theme for better looking:&lt;br />
+https://www.pling.com/p/1229126&lt;br />
+&lt;br />
+Install full Materia pack from my collection.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998a8db376a2cfc97d24f7afbf819eb9aa2a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998a8db376a2cfc97d24f7afbf819eb9aa2a.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzUzMDk1OTciLCJvIjoiMSIsInMiOiJlODk5M2I4MGQxNDgyNWM1M2IwYjNmMmY2OWNkY2EzZTEyNWM1OGE3YzM2YzRjMjJiMjg4MGQ5Mjc0OTAxN2UzNGVjMmJjODMzNWEzNTgxNTQ4ZTZhYzgzYjI0YzE0ZjFmMGNlZTE3NDU2Y2E0NzU0YmE4NDVhNjRkM2FhMWExMSIsInQiOjE2MzYxODI2NTUsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.7rG3-5YbFRMvhmzjkzAXXHYRanmVfwUGXK6vAS1hHWE/Materia.tar.gz</payload>
+  <tags>gplv3,original-product,plasma,materia,material,dark,kde,linux,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>One Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1380824</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>4841</downloads>
+  <installedfile>/home/younix/.local/share/plasma/desktoptheme/OneDark</installedfile>
+  <id>1380824</id>
+  <releasedate>2020-05-05</releasedate>
+  <summary>details soon</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg2NjI0MjgiLCJvIjoiMSIsInMiOiI4NTA2YjM0NGZmYWY4ZWRhMTI1MWI2M2VjN2I2MmY4N2M5NzI2NmZiMzU3ZTM4YWJhYmFlYmIxODJlYTU0NzNiYzUwOTNmMTU3ZDU5ZTZiYzA0NWQ1ZjhkYWFkNjFmYjJmZjE3YzI3OWIwNWYxNTg0Nzk0YmExMmUzYjkyODVhYyIsInQiOjE2MzYxODA2MzcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.t9_cYKcCHWmNOWzpZjEq1hWjAQELwsPB2PE6KWrDCvE/OneDark.tar.gz</payload>
+  <tags>dark,plasma,kde,linux,unix,theme,cc-by-sa,modification-product,plasma##majorversion=4,plasma##majorversion=5</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>McSur-light Plasma Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1402095</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>56</downloads>
+  <installedfile>/home/younix/.local/share/plasma/desktoptheme/McSur-light</installedfile>
+  <id>1402095</id>
+  <releasedate>2021-11-05</releasedate>
+  <summary>McSur kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+    &lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406038/" target="_blank" rel="nofollow">https://www.pling.com/p/1406038/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-light Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402092/" target="_blank" rel="nofollow">https://www.pling.com/p/1402092/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402093/" target="_blank" rel="nofollow">https://www.pling.com/p/1402093/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1402091/" target="_blank" rel="nofollow">https://www.pling.com/p/1402091/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1402094/" target="_blank" rel="nofollow">https://www.pling.com/p/1402094/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-light Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1402090/" target="_blank" rel="nofollow">https://www.pling.com/p/1402090/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Aurorae Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406026/" target="_blank" rel="nofollow">https://www.pling.com/p/1406026/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Sddm Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406030/" target="_blank" rel="nofollow">https://www.pling.com/p/1406030/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Color Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406025/" target="_blank" rel="nofollow">https://www.pling.com/p/1406025/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Plasma Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1406032/" target="_blank" rel="nofollow">https://www.pling.com/p/1406032/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Kvantum&lt;/strong>:&lt;a href="https://www.pling.com/p/1406027/" target="_blank" rel="nofollow">https://www.pling.com/p/1406027/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>McSur-dark Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1406023/" target="_blank" rel="nofollow">https://www.pling.com/p/1406023/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>McSur-alt Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1448409/" target="_blank" rel="nofollow">https://www.pling.com/p/1448409/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>BigSur icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1399044/" target="_blank" rel="nofollow">https://www.pling.com/p/1399044/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/8/9/1/34d8c99c9a8a7da4004181f2ffb51d4a8780bbc9c0731b9a25972a4a8fd80137b259.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/8/9/1/34d8c99c9a8a7da4004181f2ffb51d4a8780bbc9c0731b9a25972a4a8fd80137b259.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzYxMzk4NDMiLCJvIjoiMSIsInMiOiJjMThiODNkOGIyMDNjMzU3YTk2YzZkZGQ3Mjg2MGUzNmY0NTFmYmQ3MzBjYTE0NTE1ZDYyMDI1Yjk1NGZiYzVhOTNiMzczYWRhNTFlYzQ0OWE5ODY1YWQ3YzQyODEyZDg5OTNhMjI1Njc1NTVkMTkxMjM3NDg1ZWIwMGUwZDk2YiIsInQiOjE2MzYxODI0MjAsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.vl2jp_-QZuqC7vUh9Bpgetsyro8DpHPg-gjmTgXP5VA/McSur-light.zip</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Nordic darker KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1633673</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>988</downloads>
+  <installedfile>/home/younix/.local/share/plasma/desktoptheme/Nordic-darker</installedfile>
+  <id>1633673</id>
+  <releasedate>2021-11-03</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic darker Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326274/" target="_blank" rel="nofollow">Nordic Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1629062/" target="_blank" rel="nofollow">Nordic darker color scheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246" target="_blank" rel="nofollow"> Folders &lt;/a>&lt;br />
+&lt;br />
+Wallpaper in screenshot &lt;a href="https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg" target="_blank" rel="nofollow"> here &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/0/2/c/4600ef196a65ceda4130ea374fb0960550806ed811759a1d28fb6bf351a2b1dc03dd.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/0/2/c/4600ef196a65ceda4130ea374fb0960550806ed811759a1d28fb6bf351a2b1dc03dd.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU5NzU4NzQiLCJvIjoiMSIsInMiOiI0YmQyODIyZjdmMzI0MDEyNGRlNjRiNGM3ODAwNGFmZWVjYjlhMjU2Nzk2MTI2OWRhZDI5NTQ0M2Y3YzljM2JkMmEzYTlhMGIxYmUzM2Q1ZWE3MDNhZTQ1N2YzOGY2OGU1M2Q4ZWMyY2NkMjE3NzdkMGY2YTY4MjUyMGJlNDcxOSIsInQiOjE2MzYxNzg2NDUsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.saJMS7ea_QXulEl1fAmO1npD7s5NQRAZobluO1d5Dwk/Nordic-darker.tar.xz</payload>
+  <tags>cc-by-sa,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Layan plasma theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325241</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>79</rating>
+  <downloads>5677</downloads>
+  <installedfile>/home/younix/.local/share/plasma/desktoptheme/Layan</installedfile>
+  <id>1325241</id>
+  <releasedate>2021-10-30</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Icon theme&lt;/strong>: Tela icon theme&lt;br />
+&lt;a href="https://www.pling.com/p/1279924/" target="_blank" rel="nofollow">https://www.pling.com/p/1279924/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Wallpaper&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309218/" target="_blank" rel="nofollow">https://www.pling.com/p/1309218/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/0/e/1/0103cc7287e0a059282b827939062da324ea.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/0/e/1/0103cc7287e0a059282b827939062da324ea.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU1ODQyMTUiLCJvIjoiMSIsInMiOiJiODVjMDgwMTE5NGQzMGRlMTA1MDgzZmU1OTJkOGNlZDQ0NDBjYmJkZGNmNGE5NDZlYmFlNjZmZmJhZGY3MzczYzFmYWI0M2YwZDA2NzgxZGMyZjE1MDc3ZWQ5MDhiMTA5ODA3ZDkwNzE2OWI0MGM5MzA0ZjM4MmY5YTRlZDljOCIsInQiOjE2MzYxODI1OTksInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.J4VGFfXYs87-BgKP1MqSahPK3lKXFtbzGNulp-6lWaQ/Layan.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="102">
+  <name>Menu set as wallpaper and lockscreen</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1327071</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>63</rating>
+  <downloads>120020</downloads>
+  <installedfile>/home/younix/.local/share/servicemenu-download/SetAsWallpaperAndLockScreen.desktop</installedfile>
+  <id>1327071</id>
+  <releasedate>2019-09-25</releasedate>
+  <summary>Menu service for change desktop wallpaper and lock screen image.&lt;br />
+&lt;br />
+Enjoy!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/0/8/e/dd7f6d5da0017e2f6ecce0322d5830f6049d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/0/8/e/dd7f6d5da0017e2f6ecce0322d5830f6049d.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk0MzE4NTYiLCJvIjoiMSIsInMiOiIyZDczYzgyNGQyOTFlYzBiNWY4MDMwMTI1NWQ4Nzk4ZDU3NDFlOGUzZTg5NzIzNjZjNDMwNTI5YmU2ODYwNGQyOWY3YjcwNzRkYjI4MjM4YTE3OTJlNThmZGZlMzk3MzJjZDk0NzMyOGMzNGM3MzBiMTQyYjkyYWY1NTc4ZTBhMSIsInQiOjE2MzYxNzg3MzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.6ZVCfU6l5cdSEGDktS6wJ9UGYtk7NOQ9UI8nP13qvjo/SetAsWallpaperAndLockScreen.desktop</payload>
+  <tags>addon,gplv3,menu,lockscreen</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

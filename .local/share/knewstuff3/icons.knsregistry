@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Papirus</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1166289</homepage>
+  <licence></licence>
+  <version>20211101</version>
+  <rating>92</rating>
+  <downloads>8863</downloads>
+  <installedfile>/home/younix/.local/share/icons/Papirus-Light/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/ePapirus/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/Papirus-Dark/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/ePapirus-Dark/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/Papirus/*</installedfile>
+  <id>1166289</id>
+  <releasedate>2021-11-01</releasedate>
+  <summary>Papirus - it's free and open source SVG-based icon theme for Linux with material and flat style.&lt;br />
+All elements have clear distinction and outlines. Also main feature - it's jucy colors tone.&lt;br />
+&lt;br />
+Papirus support hardcode-tray script:&lt;br />
+https://github.com/bil-elmoussaoui/Hardcode-Tray/&lt;br />
+&lt;br />
+Folder Color support:&lt;br />
+http://foldercolor.tuxfamily.org&lt;br />
+&lt;br />
+Dolphin Folder Color support:&lt;br />
+https://github.com/audoban/dolphin-folder-color&lt;br />
+&lt;br />
+Papirus Folders script:&lt;br />
+https://github.com/PapirusDevelopmentTeam/papirus-folders&lt;br />
+&lt;br />
+And KDE color scheme:&lt;br />
+https://techbase.kde.org/Development/Tutorials/Plasma5/ThemeDetails#Colors</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/1/f/4/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/1/f/4/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU4MDU3MTgiLCJvIjoiMSIsInMiOiI4OGEyMTUwYjk0NGE2ZTk1M2NkOTI3ZGJkN2U4MWU4Nzk3ODNhMjVlZjgyMDhiYjJkZjIzMzFiMjQxZmNlYWEyNGZhNGRjYzdmNzY2YTc2NWUzNzc3MmZlODU0OWY4ODViZWUzZDZhOGI2YjlhY2YxZjJkNDE5MDZlZDZjZTY4YSIsInQiOjE2MzYxODI2NjYsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.UV-pfiQXm-HU8EAfAqE8vcDaLZu8hzYcup8alercv_E/papirus-icon-theme-20211101.tar.gz</payload>
+  <tags>linux,unix,papirus,icon-theme,icons,material,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Breeze Chameleon Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1281798</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>84</rating>
+  <downloads>839</downloads>
+  <installedfile>/home/younix/.local/share/icons/Breeze Chameleon Dark/*</installedfile>
+  <id>1281798</id>
+  <releasedate>2021-11-05</releasedate>
+  <summary>The folders change color depending on the&lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: blue;"> &lt;strong>Breeze-Round-Chameleon Dark Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1608771" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+ &lt;br />
+&lt;span style="color: blue;"> &lt;strong>- The icons are based on the Default "Breeze" Icon Theme.&lt;/strong> &lt;/span>&lt;br />
+---------------------------------------------&lt;br />
+&lt;br />
+Icons for Light Plasma Themes:&lt;br />
+&lt;br />
+&lt;span style="color: #d88d00;"> &lt;strong>Breeze Chameleon Light Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: blue;"> &lt;strong>Breeze-Round-Chameleon Light Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1608766" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Charlie-Henson &lt;/span>&lt;/a>&lt;/strong>&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/f/2/e/9017c87030219dda3f05fbb274290e7260a5e498cd8af5f997ed222b2298296bd6e1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/f/2/e/9017c87030219dda3f05fbb274290e7260a5e498cd8af5f997ed222b2298296bd6e1.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzYxMjY5MDYiLCJvIjoiMSIsInMiOiJhNWMzNDhlY2JhOTI3ZTg0NzU0NmE0ODI0ODQ3OGNkYWRjMDk0MzhmMTI4Nzc5YjQxNWYxZWY4NzlmMmRjN2RhNWYyZTM3MTFkZDllMjk4YmRjNjIxMTZlZDgyNTFjMWViNWNkMTJkOTIwODU3OWQ1YWQ0ZDFiNDA3ZDU5YTE5YiIsInQiOjE2MzYxODA2MjgsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.o312BvGvn9nPXgn4ESSldFAgZiUZft0S4DSeTfF7dvc/Breeze Chameleon Dark.tar.gz</payload>
+  <tags>linux,unix,icon-theme,efi,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Tela-icon-theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1279924</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>3958</downloads>
+  <installedfile>/home/younix/.local/share/icons/Tela/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/Tela-dark/*</installedfile>
+  <id>1279924</id>
+  <releasedate>2021-11-04</releasedate>
+  <summary>&lt;strong> Tela Icon Theme &lt;/strong>&lt;br />
+A flat colorful Design icon theme&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;strong> Full circular version &lt;/strong>&lt;br />
+Tela-circle: &lt;br />
+&lt;a href="https://www.gnome-look.org/p/1359276/" target="_blank" rel="nofollow">https://www.gnome-look.org/p/1359276/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong> Based on &lt;/strong>&lt;br />
+1. numix-icon-theme-circle: &lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a>&lt;br />
+2. papirus-icon-theme: &lt;br />
+&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme" target="_blank" rel="nofollow">https://github.com/PapirusDevelopmentTeam/papirus-icon-theme&lt;/a>&lt;br />
+3. paper-icon-theme: &lt;br />
+&lt;a href="https://github.com/snwh/paper-icon-theme" target="_blank" rel="nofollow">https://github.com/snwh/paper-icon-theme&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong> Supported desktops &lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>1.&lt;/strong> Gnome&lt;br />
+&lt;strong>2.&lt;/strong> Kde Plasma&lt;br />
+&lt;strong>3.&lt;/strong> Budgie&lt;br />
+&lt;strong>4.&lt;/strong> Cinnamon&lt;br />
+&lt;strong>5.&lt;/strong> Elementary Pantheon&lt;br />
+&lt;strong>6.&lt;/strong> Xfce4&lt;br />
+&lt;strong>7.&lt;/strong> Mate&lt;br />
+&lt;strong>...&lt;/strong>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>Github&lt;/strong>: &lt;a href="https://github.com/vinceliuice/Tela-icon-theme" target="_blank" rel="nofollow">https://github.com/vinceliuice/Tela-icon-theme&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>Donation&lt;/strong>: &lt;a href="https://www.paypal.me/vinceliuice" target="_blank" rel="nofollow">https://www.paypal.me/vinceliuice&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/9/1/c/84511eab3c160a3a10e87db30ee4ae8a70c1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/9/1/c/84511eab3c160a3a10e87db30ee4ae8a70c1.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzYwMzU3MTQiLCJvIjoiMSIsInMiOiIxYmMyOWFlNmVjZDllYWM4NDcxODM1NzFiNjZmYjk0YmEzNjg2YzU5Y2UwYWNhODdjNjZmZmI3MGEyMWJhOWU2NDc4OWI1MDAyNjQ4NzdhNGQ0YjFkZmEyMjYzNWI3NDgwMGYzNTE0MDMyNzMyNWNkYzc4MDc0OTZhMDM2ODUzZiIsInQiOjE2MzYxODI2MTEsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.I6aVgu-aXES28K_aGPyFJrgIGEYXW6pTqSp8VDcJXhU/01-Tela.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>BigSur icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1399044</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>74</rating>
+  <downloads>4068</downloads>
+  <installedfile>/home/younix/.local/share/icons/BigSur-black/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/BigSur-black-dark/*</installedfile>
+  <id>1399044</id>
+  <releasedate>2021-10-29</releasedate>
+  <summary>&lt;strong>All the ICONS are being optimized. Because of the large number, if there is an urgent need for use, we will give priority to optimizing and uploading immediately.&lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>Please understand the inconvenience caused to you.&lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>A large number of ICONS have been optimized.&lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>BigSur Icon Theme&lt;/strong>&lt;br />
+A colorful Design icon theme for linux desktops&lt;br />
+------------------------------&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;strong>Based on&lt;/strong>&lt;br />
+------------------------------&lt;br />
+1. numix-icon-theme-circle:&lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a>&lt;br />
+2. papirus-icon-theme:&lt;br />
+&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme" target="_blank" rel="nofollow">https://github.com/PapirusDevelopmentTeam/papirus-icon-theme&lt;/a>&lt;br />
+3. paper-icon-theme:&lt;br />
+&lt;a href="https://github.com/snwh/paper-icon-theme" target="_blank" rel="nofollow">https://github.com/snwh/paper-icon-theme&lt;/a>&lt;br />
+------------------------------</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/0/5/a/7b67960545202a2263a5f67389b8bbe5d60a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/0/5/a/7b67960545202a2263a5f67389b8bbe5d60a.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU0ODc2NDYiLCJvIjoiMSIsInMiOiIwOTBmN2MyMTE0YTA2ZTE0OGRkM2NiYWVmZjNmNGRkY2VhOGM2YTg4ZDA4M2RjNjc3Mjc0NDA3MmUwMzRiZjJkZjU2ZmRhZGMzYmQ0OGE0MTI5ZmE2YTNlMTg4ODQ2OTgzMmVlNGQ0YThlN2Y2OTJiYjkxN2I1MGE1NmZiYTY4OSIsInQiOjE2MzYxODI0MzMsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.wvH4-Jk8vYjZlrhIUgT7Rlmr8YV5X5I8jsw07Sl93FY/BigSur-black.tar.xz</payload>
+  <tags>original-product,gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Gruvbox icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1327720</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>73</rating>
+  <downloads>33748</downloads>
+  <installedfile>/home/younix/.local/share/icons/Gruvbox/*</installedfile>
+  <id>1327720</id>
+  <releasedate>2019-09-29</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong>Gruvbox icon theme&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+This icon set is based on the theme of gruvbox colors for vim &lt;a href="https://github.com/morhetz/gruvbox" target="_blank" rel="nofollow">https://github.com/morhetz/gruvbox&lt;/a>.&lt;br />
+&lt;br />
+We adapt the colors of all the icons for the new scheme.&lt;br />
+&lt;br />
+The original application icons are from the Papirus icon set &lt;a href="https://www.pling.com/p/1166289/" target="_blank" rel="nofollow">opendeskop&lt;/a>. All other icons are inherited by the theme Papirus (which we kindly recommend using).&lt;br />
+&lt;br />
+&lt;strong>Thanks to:&lt;/strong>&lt;br />
+KDE team&lt;br />
+Papirus Development Team&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Gruvbox theme&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+Based on the gruvbox scheme colors for vim [https://github.com/morhetz/gruvbox](https://github.com/morhetz/gruvbox).&lt;br />
+&lt;br />
+&lt;span style="color: #282828;">◼&lt;/span>&lt;span style="color: #fb4934;">◼&lt;/span>&lt;span style="color: #b8bb26;">◼&lt;/span>&lt;span style="color: #fabd2f;">◼&lt;/span>&lt;span style="color: #83a598;">◼&lt;/span>&lt;span style="color: #d3869b;">◼&lt;/span>&lt;span style="color: #8ec07c;">◼&lt;/span>&lt;span style="color: #fe8019;">◼&lt;/span>&lt;br />
+&lt;span style="color: #fbf1c7;">◼&lt;/span>&lt;span style="color: #cc241d;">◼&lt;/span>&lt;span style="color: #98971a;">◼&lt;/span>&lt;span style="color: #d79921;">◼&lt;/span>&lt;span style="color: #458588;">◼&lt;/span>&lt;span style="color: #b16286;">◼&lt;/span>&lt;span style="color: #689d6a;">◼&lt;/span>&lt;span style="color: #d65d0e;">◼&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Plasma, gnome, xfce, cinnamon, lxde, i3 &lt;/strong>&lt;/span>&lt;br />
+&lt;br />
++ &lt;strong>Icons&lt;/strong>&lt;a href="https://www.pling.com/p/1327720/" target="_blank" rel="nofollow"> here &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/icons/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Plasma:&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
++ &lt;strong>Look and feel&lt;/strong> &lt;a href="https://www.pling.com/p/1327723/" target="_blank" rel="nofollow"> link &lt;/a> install from systemsettings &amp;gt; look and feel &amp;gt; get new theme &lt;br />
++ &lt;strong>Color scheme&lt;/strong> &lt;a href="https://www.pling.com/p/1327717/" target="_blank" rel="nofollow"> link &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/color-schemes/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
++ &lt;strong>Plasma theme&lt;/strong> &lt;a href="https://www.pling.com/p/1327719/" target="_blank" rel="nofollow"> link &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/plasma/desktoptheme/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
++ &lt;strong>Aurorae theme&lt;/strong> &lt;a href="https://www.pling.com/p/1327718/" target="_blank" rel="nofollow"> link &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/aurorae/themes/&amp;nbsp;&lt;/span>
+&lt;/code> &lt;br />
++ &lt;strong>Konsole&lt;/strong> &lt;a href="https://www.pling.com/p/1327725/" target="_blank" rel="nofollow"> link &lt;/a> extract the content in &lt;code>&lt;span style="color: #000000">
+&amp;nbsp;~/.local/share/konsole/&amp;nbsp;&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+- Plasmoids for KDE&lt;br />
+&lt;br />
+* Launcher: &lt;a href="https://www.pling.com/p/1324206/" target="_blank" rel="nofollow"> NavDexie menu&lt;/a>&lt;br />
+* Clock: &lt;a href="https://www.pling.com/p/1324315/" target="_blank" rel="nofollow"> Split digital clock&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+If you like my work :&lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a>&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk3MzMzMzciLCJvIjoiMSIsInMiOiIxZmIwN2ViOTQ4YjRjM2ZkZDZhOGMwMTBhMTIxZjJmZjBmOWMwOTViYWJhM2RmOWM1ZWU2NmNmM2U1MTg2OTdlYTQ1NGZjMWNmM2IxZjgzOTJkNDUxYTUwOTc3NjEzYmUyZjM1YmM2OWRkNGU2NDMwMzZhMTM1ZWY5MGE5YWMxMCIsInQiOjE2MzYxNzg2OTUsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.K595mf-hS46we7jRzezW3BnYXO0uF7iSjfej1Vbg5kk/Gruvbox.tar.gz</payload>
+  <tags>unix,icon-theme,gplv3,icon,linux,gnome,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>One dark icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1380833</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>5342</downloads>
+  <installedfile>/home/younix/.local/share/icons/OneDark/*</installedfile>
+  <id>1380833</id>
+  <releasedate>2020-05-05</releasedate>
+  <summary>details soon</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg2NjI1NzgiLCJvIjoiMSIsInMiOiIyYjRlY2VjMzgxNjk3NWQwM2FjOWZmZjA1YjI5YzI2MmZhMGYwMTMyMDhjYzVkOGU5ZTU3MGVmZTcwNGE1YTYzNmIzZWFhYTAyNzg0YTAzOWY0OTZmOWNlNmU5MWE1NmNjYjNmMDliNjhhMDE3Zjg0ZDgzMjUyNDA5YmEwNzdiYSIsInQiOjE2MzYxODA2NTMsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.5uRmLmlNCpvxfNTO-4Zm1sgqtp0wdbvrs3KDbpnV4go/OneDark.tar.gz</payload>
+  <tags>one,dark,plasma,kde,cc-by-sa,modification-product,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
