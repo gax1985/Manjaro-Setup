@@ -3,4 +3,13 @@ shell c
 shell sudo apt install ./discord-0.0.16.deb
 shell mkdir Kubuntu-Setup
 rename Wallpapers
+shell mkdir 'Homework 6'
+open_with 
+rename everforest
+shell mkdir 'ethics presentation'
+shell mkdir kde
+shell mkdir alacritty
+shell touch alacritty.yml
 shell code .
+delete
+shell git clone http://github.com/YoussefE95/Manjaro-Setup

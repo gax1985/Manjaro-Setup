@@ -2,28 +2,83 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="121">
-  <name>Gruvbox Look and Feel</name>
+  <name>McSur-light Global Theme</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>adhe</author>
-  <homepage>https://store.kde.org/p/1327723</homepage>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1569024</homepage>
   <licence></licence>
   <version></version>
-  <rating>79</rating>
-  <downloads>33834</downloads>
-  <installedfile>/home/younix/.local/share/plasma/look-and-feel/GruvboxPlasma</installedfile>
-  <id>1327723</id>
-  <releasedate>2019-10-01</releasedate>
-  <summary>&lt;span style="text-decoration: underline;">&lt;strong> Gruvbox Look &amp;amp; Feel for plasma KDE&lt;/strong>&lt;/span>&lt;br />
+  <rating>50</rating>
+  <downloads>12073</downloads>
+  <installedfile>/home/younix/.local/share/plasma/look-and-feel/com.github.yeyushengfan258.McSur-light</installedfile>
+  <id>1569024</id>
+  <releasedate>2021-11-05</releasedate>
+  <summary>McSur kde is a light clean theme for KDE Plasma desktop.&lt;br />
 &lt;br />
-Based on the gruvbox scheme colors for vim [https://github.com/morhetz/gruvbox](https://github.com/morhetz/gruvbox).&lt;br />
+In this repository you'll find:&lt;br />
 &lt;br />
-&lt;span style="color: #282828;">◼&lt;/span>&lt;span...</summary>
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+    &lt;br...</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk5NDk5MTQiLCJvIjoiMSIsInMiOiIwMDc2ZTUxMGNkOTcwNzQyYjNmZGM5OWE3YTA4ZTRhNWYzYWUwYzYyYjNkNTJkNWQ3MWM0YzAxY2E3MzRjMmViZWE3MGQ5YmYxMDQxZmQ4ZTI4MDczNGE4NmYwMDhmNDI4Y2FmZmJlN2E2OThlM2NhYjQxZGFhNDMyOGMxMjc2MSIsInQiOjE2MzYxNzg2NjYsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.QaWN3IDkMtfObmBreAtVZfCu-qA3GAvOB2esHtIAshk/GruvboxPlasma.tar.gz</payload>
-  <tags>dark,theme,gruvbox,plasma,gplv3,original-product,linux,unix,kde,look-and-feel</tags>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/6/0/7/f365ca4197538371eb7715702a078db7272e666a010ab2a78d9781a4ed0944f99ca0.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/6/0/7/f365ca4197538371eb7715702a078db7272e666a010ab2a78d9781a4ed0944f99ca0.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjgxNDM4MzIiLCJvIjoiMSIsInMiOiJmYzUzMzc3ZjFiYmMxNDIzZDRjNDVlZGQ1MzhmNmQ1NTMzMzM4YTFiM2M5YzVjNWI2MTdjYTI1ZWRlMDE1MGYzNGZiMmZjMjA2YWQwYzZhOTJlNzIwZmMyNWQ1OTYwZGFiNmZiZmJjOGMxMTg1ZjcxNzhiNGY4ZWQ5OWVlNmI0NSIsInQiOjE2MzYxODI0MDksInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.3ffJdvpa-Aay_Af26BQKIVWTsy4UgL1uAoc1AbmUob0/com.github.yeyushengfan258.McSur-light.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,look-and-feel,gplv3,original-product</tags>
   <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Materia Dark KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1229162</homepage>
+  <licence></licence>
+  <version>20210722</version>
+  <rating>81</rating>
+  <downloads>10154</downloads>
+  <installedfile>/home/younix/.local/share/plasma/look-and-feel/com.github.varlesh.materia-dark</installedfile>
+  <id>1229162</id>
+  <releasedate>2021-07-23</releasedate>
+  <summary>Materia pack for Plasma 5 desktop.&lt;br />
+&lt;br />
+Please use Kvantum Engine and Theme for better looking:&lt;br />
+https://www.pling.com/p/1229126&lt;br />
+&lt;br />
+Install full Materia pack from my collection.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998ab10831327cf2191719f9ce6c01a00e4a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998ab10831327cf2191719f9ce6c01a00e4a.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjcwMzEzOTYiLCJvIjoiMSIsInMiOiJjM2RjZmQyNDk4Njg5M2Q3OGYyMTk0ZjI1NzIxZDFjZjA2ZTI1NmZjMWU1NjMzNjRlODM4Y2JhYjczZTcwZmJkZjE5YmNlOGI3ODFhOTNlMDdlYWE4NGExZjc1MDBhYmRhNDgxYjMzNTNkNmMzNmQ5ZGExMzFlZTQxYjlhN2UyZiIsInQiOjE2MzYxODI2NDQsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.1mv6GdkJF3Z6wNORfc7bdIPENnBtbYdzsr5J-LPz4tU/com.github.varlesh.materia-dark.tar.gz</payload>
+  <tags>plasma,kde,materia,material,dark,gplv3,original-product,linux,unix,theme,look-and-feel</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Nordic darker KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1633675</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>1685</downloads>
+  <installedfile>/home/younix/.local/share/plasma/look-and-feel/Nordic-darker</installedfile>
+  <id>1633675</id>
+  <releasedate>2021-11-03</releasedate>
+  <summary>Nordic darker is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1633673v/" target="_blank" rel="nofollow"> Nordic...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/2/2/0/e993b51bc83f33e12484d08c32ba614be041cee39a3f0330d7f5526faa059670435b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/2/2/0/e993b51bc83f33e12484d08c32ba614be041cee39a3f0330d7f5526faa059670435b.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU5Nzc2MzMiLCJvIjoiMSIsInMiOiJkY2ZjYTQ3YTE0NzA5MjI5OWQ3ODU4NjUxYzg0MDI4ODMxZjUzOWZhNjRlZTNmN2ZkNDNmNmU3NmRlMzNmM2RiNzI1NjcxYjYyNDUxYmU1MmEzZDRjMDJmMjMzY2ViNDIyNWM4ZjMxNjJiOThkODYxMjcyNWJmZDY2NWNiNzAzZiIsInQiOjE2MzYxNzg2MzMsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.u4qOgO0ZCP3jWAtRG6bCopTEIIjOIcLInGIeMnwzhAg/Nordic-darker.tar.xz</payload>
+  <tags>linux,unix,theme,kde,plasma,look-and-feel,gplv3</tags>
+  <status>updateable</status>
  </stuff>
  <stuff category="121">
   <name>Layan look and feel theme</name>
@@ -72,52 +127,27 @@ For better looking please use this theme with  &lt;a href="https://github.com/ts
   <status>installed</status>
  </stuff>
  <stuff category="121">
-  <name>Nordic darker KDE</name>
+  <name>Gruvbox Look and Feel</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>eliverlara</author>
-  <homepage>https://store.kde.org/p/1633675</homepage>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1327723</homepage>
   <licence></licence>
   <version></version>
-  <rating>50</rating>
-  <downloads>996</downloads>
-  <installedfile>/home/younix/.local/share/plasma/look-and-feel/Nordic-darker</installedfile>
-  <id>1633675</id>
-  <releasedate>2021-11-03</releasedate>
-  <summary>Nordic darker is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+  <rating>79</rating>
+  <downloads>33834</downloads>
+  <installedfile>/home/younix/.local/share/plasma/look-and-feel/GruvboxPlasma</installedfile>
+  <id>1327723</id>
+  <releasedate>2019-10-01</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong> Gruvbox Look &amp;amp; Feel for plasma KDE&lt;/strong>&lt;/span>&lt;br />
 &lt;br />
-Suggested settings: &lt;br />
+Based on the gruvbox scheme colors for vim [https://github.com/morhetz/gruvbox](https://github.com/morhetz/gruvbox).&lt;br />
 &lt;br />
-&lt;a href="https://www.pling.com/p/1633673v/" target="_blank" rel="nofollow"> Nordic...</summary>
+&lt;span style="color: #282828;">◼&lt;/span>&lt;span...</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/2/2/0/e993b51bc83f33e12484d08c32ba614be041cee39a3f0330d7f5526faa059670435b.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/2/2/0/e993b51bc83f33e12484d08c32ba614be041cee39a3f0330d7f5526faa059670435b.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU5Nzc2MzMiLCJvIjoiMSIsInMiOiJkY2ZjYTQ3YTE0NzA5MjI5OWQ3ODU4NjUxYzg0MDI4ODMxZjUzOWZhNjRlZTNmN2ZkNDNmNmU3NmRlMzNmM2RiNzI1NjcxYjYyNDUxYmU1MmEzZDRjMDJmMjMzY2ViNDIyNWM4ZjMxNjJiOThkODYxMjcyNWJmZDY2NWNiNzAzZiIsInQiOjE2MzYxNzg2MzMsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.u4qOgO0ZCP3jWAtRG6bCopTEIIjOIcLInGIeMnwzhAg/Nordic-darker.tar.xz</payload>
-  <tags>linux,unix,theme,kde,plasma,look-and-feel,gplv3</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="121">
-  <name>Materia Dark KDE</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>x-varlesh-x</author>
-  <homepage>https://store.kde.org/p/1229162</homepage>
-  <licence></licence>
-  <version>20210722</version>
-  <rating>81</rating>
-  <downloads>10154</downloads>
-  <installedfile>/home/younix/.local/share/plasma/look-and-feel/com.github.varlesh.materia-dark</installedfile>
-  <id>1229162</id>
-  <releasedate>2021-07-23</releasedate>
-  <summary>Materia pack for Plasma 5 desktop.&lt;br />
-&lt;br />
-Please use Kvantum Engine and Theme for better looking:&lt;br />
-https://www.pling.com/p/1229126&lt;br />
-&lt;br />
-Install full Materia pack from my collection.</summary>
-  <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998ab10831327cf2191719f9ce6c01a00e4a.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998ab10831327cf2191719f9ce6c01a00e4a.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjcwMzEzOTYiLCJvIjoiMSIsInMiOiJjM2RjZmQyNDk4Njg5M2Q3OGYyMTk0ZjI1NzIxZDFjZjA2ZTI1NmZjMWU1NjMzNjRlODM4Y2JhYjczZTcwZmJkZjE5YmNlOGI3ODFhOTNlMDdlYWE4NGExZjc1MDBhYmRhNDgxYjMzNTNkNmMzNmQ5ZGExMzFlZTQxYjlhN2UyZiIsInQiOjE2MzYxODI2NDQsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.1mv6GdkJF3Z6wNORfc7bdIPENnBtbYdzsr5J-LPz4tU/com.github.varlesh.materia-dark.tar.gz</payload>
-  <tags>plasma,kde,materia,material,dark,gplv3,original-product,linux,unix,theme,look-and-feel</tags>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk5NDk5MTQiLCJvIjoiMSIsInMiOiIwMDc2ZTUxMGNkOTcwNzQyYjNmZGM5OWE3YTA4ZTRhNWYzYWUwYzYyYjNkNTJkNWQ3MWM0YzAxY2E3MzRjMmViZWE3MGQ5YmYxMDQxZmQ4ZTI4MDczNGE4NmYwMDhmNDI4Y2FmZmJlN2E2OThlM2NhYjQxZGFhNDMyOGMxMjc2MSIsInQiOjE2MzYxNzg2NjYsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.QaWN3IDkMtfObmBreAtVZfCu-qA3GAvOB2esHtIAshk/GruvboxPlasma.tar.gz</payload>
+  <tags>dark,theme,gruvbox,plasma,gplv3,original-product,linux,unix,kde,look-and-feel</tags>
   <status>installed</status>
  </stuff>
  <stuff category="121">
@@ -141,33 +171,28 @@ Install full Materia pack from my collection.</summary>
   <status>installed</status>
  </stuff>
  <stuff category="121">
-  <name>McSur-light Global Theme</name>
+  <name>McMojave LAF</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>yeyushengfan258</author>
-  <homepage>https://store.kde.org/p/1569024</homepage>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1310500</homepage>
   <licence></licence>
   <version></version>
-  <rating>50</rating>
-  <downloads>11283</downloads>
-  <installedfile>/home/younix/.local/share/plasma/look-and-feel/com.github.yeyushengfan258.McSur-light</installedfile>
-  <id>1569024</id>
-  <releasedate>2021-11-05</releasedate>
-  <summary>McSur kde is a light clean theme for KDE Plasma desktop.&lt;br />
-&lt;br />
-In this repository you'll find:&lt;br />
-&lt;br />
-    Aurorae Themes&lt;br />
-    Kvantum Themes&lt;br />
-    Plasma Color Schemes&lt;br />
-    Plasma Desktop Themes&lt;br />
-    Plasma Look-and-Feel Settings&lt;br />
-&lt;br />
-    &lt;br...</summary>
+  <rating>78</rating>
+  <downloads>3834</downloads>
+  <installedfile>/home/younix/.local/share/plasma/look-and-feel/com.github.vinceliuice.McMojave</installedfile>
+  <id>1310500</id>
+  <releasedate>2021-10-21</releasedate>
+  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
+-------------------------&lt;br />
+You can use this with:&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Aurorae Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305005/" target="_blank"...</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/6/0/7/f365ca4197538371eb7715702a078db7272e666a010ab2a78d9781a4ed0944f99ca0.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/6/0/7/f365ca4197538371eb7715702a078db7272e666a010ab2a78d9781a4ed0944f99ca0.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjgxNDM4MzIiLCJvIjoiMSIsInMiOiJmYzUzMzc3ZjFiYmMxNDIzZDRjNDVlZGQ1MzhmNmQ1NTMzMzM4YTFiM2M5YzVjNWI2MTdjYTI1ZWRlMDE1MGYzNGZiMmZjMjA2YWQwYzZhOTJlNzIwZmMyNWQ1OTYwZGFiNmZiZmJjOGMxMTg1ZjcxNzhiNGY4ZWQ5OWVlNmI0NSIsInQiOjE2MzYxODI0MDksInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.3ffJdvpa-Aay_Af26BQKIVWTsy4UgL1uAoc1AbmUob0/com.github.yeyushengfan258.McSur-light.zip</payload>
-  <tags>linux,unix,theme,kde,plasma,look-and-feel,gplv3,original-product</tags>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/0/e/0/ae11c36cac92aa4442f0130dd3711f293b79.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/0/e/0/ae11c36cac92aa4442f0130dd3711f293b79.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzQ4MTIzMzIiLCJvIjoiMSIsInMiOiJiYWRmNmRiYzk5ZmFlMjcyNDJkZDMzYTJlYjhhYjdhODZiYmY5MzIzN2M4MzA3N2E4MjIxYzJkZTFlZjQ2MTVmNTZjNjRmMjA2OTNmOGM1ZWI4ZWVmZjI5MDFjNzhlZDZhZGRiNjQwMDVmN2Y3YWViMGI2YTU0YTNkYTViNjBlNSIsInQiOjE2MzY5NTIyODYsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.WIME655FxRLfEwN7l3JBXAdSZj4IfjvTuPaAC-Y6iXY/com.github.vinceliuice.McMojave.tar.xz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,kde,plasma,look-and-feel</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

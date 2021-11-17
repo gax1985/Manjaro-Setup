@@ -1,7 +1,13 @@
 [ActivityManager]
 _k_friendly_name=Activity Manager
 switch-to-activity-56a19c48-e29b-474a-894f-899448f164ec=none,none,Switch to activity "Default"
+switch-to-activity-7683d4f7-f40c-4401-bee6-74b1ecfc1b4c=none,none,Switch to activity "Default"
 switch-to-activity-b9f0c1fc-2a9c-462b-8cc1-c3ce48909c2b=none,none,Switch to activity "Default"
+
+[Alacritty.desktop]
+New=Meta+T,,New Terminal
+_k_friendly_name=Alacritty
+_launch=,,Alacritty
 
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to English (US)=none,none,Switch keyboard layout to English (US)
@@ -25,7 +31,7 @@ display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=Custom Shortcuts Service
-{4b25a4a8-d781-4e6e-bf8c-c92edfbcfa2b}=Meta+T,none,Launch Konsole
+{4b25a4a8-d781-4e6e-bf8c-c92edfbcfa2b}=none,none,Launch Konsole
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
 
 [kmix]
@@ -244,12 +250,12 @@ _launch=Meta+.,Meta+.,Emoji Selector
 
 [org.kde.spectacle.desktop]
 ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
-CurrentMonitorScreenShot=,,Capture Current Monitor
+CurrentMonitorScreenShot=,none,Capture Current Monitor
 FullScreenScreenShot=Shift+Print,Shift+Print,Capture Entire Desktop
 RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Capture Rectangular Region
 WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,Capture Window Under Cursor
 _k_friendly_name=Spectacle
-_launch=Print,Print,Spectacle
+_launch=Print,Print,Launch Spectacle
 
 [org_kde_powerdevil]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
@@ -313,3 +319,7 @@ Toggle screen map selection=Meta+Ctrl+M,Meta+Ctrl+M,Toggle between all screens
 Toggle stylus mode=Meta+Ctrl+S,Meta+Ctrl+S,Toggle the Stylus Tool Relative/Absolute
 Toggle touch tool=Meta+Ctrl+T,Meta+Ctrl+T,Enable/Disable the Touch Tool
 _k_friendly_name=Wacom Tablet
+
+[yakuake]
+_k_friendly_name=Yakuake
+toggle-window-state=F12,F12,Open/Retract Yakuake

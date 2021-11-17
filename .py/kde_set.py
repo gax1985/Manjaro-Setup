@@ -13,7 +13,7 @@ def supported(theme):
     Returns:
         bool: based on whether the given theme is supported or not
     '''
-    supported_themes = ['gruvbox', 'onedark', 'dracula', 'nord', 'light']
+    supported_themes = ['gruvbox', 'onedark', 'onelight', 'dracula', 'nord']
     
     if theme in supported_themes:
         return True
@@ -46,10 +46,10 @@ def set_code(theme):
     '''
     vs_themes = {
         'gruvbox': 'Gruvbox Dark Medium',
-        'onedark': 'One Dark Pro',
+        'onedark': 'Atom One Dark',
+        'onelight': 'Atom One Light',
         'dracula': 'Dracula',
-        'nord': 'Nord',
-        'light': 'Atom One Light'
+        'nord': 'Nord'
     }
 
     path = f'/home/{ os.environ["USER"] }/.config/Code/User/settings.json'
@@ -66,32 +66,18 @@ def set_kde(theme):
     kde_themes = {
         'gruvbox': 'GruvboxPlasma',
         'onedark': 'OneDark',
+        'onelight': 'com.github.yeyushengfan258.McSur-light',
         'dracula': 'Dracula',
-        'nord': 'Nordic-darker',
-        'light': 'com.github.yeyushengfan258.McSur-light'
+        'nord': 'Nordic-darker'
     }
 
     cmd = f'lookandfeeltool -a {kde_themes[theme]}'
     subprocess.run(cmd.split())
+    subprocess.run('clear')
 
 
-def set_konsole(theme):
-    konsole_themes = {
-        'gruvbox': 'Gruvbox',
-        'onedark': 'One Dark',
-        'dracula': 'Dracula',
-        'nord': 'Nordic',
-        'light': 'Breeze Light'
-    }
-
-    path = f'/home/{ os.environ["USER"] }/.local/share/konsole/Profile 1.profile'
-    try:
-        for line in fileinput.input([path], inplace=True):
-            if line.strip().startswith('ColorScheme'):
-                line = f'ColorScheme={konsole_themes[theme]}\n'
-            sys.stdout.write(line)
-    except FileNotFoundError:
-        print('Konsole not set. (settings file not found).')
+def set_alacritty(theme):
+    subprocess.run('alacritty-themes')
 
 
 if __name__ == "__main__":
@@ -100,5 +86,4 @@ if __name__ == "__main__":
         set_wall(new_theme)
         set_code(new_theme)
         set_kde(new_theme)
-        set_konsole(new_theme)
-        subprocess.run('kquitapp5 plasmashell && kstart5 plasmashell', shell=True, executable='/bin/bash')
+        set_alacritty(new_theme)

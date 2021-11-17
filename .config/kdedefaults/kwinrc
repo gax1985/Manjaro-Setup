@@ -5,4 +5,4 @@ LayoutName=MediumRounded
 
 [org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__McSur-light
+theme=__aurorae__svg__GruvboxAurorae

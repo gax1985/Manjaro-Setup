@@ -2,77 +2,105 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="132">
-  <name>Papirus</name>
+  <name>One dark icons</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>x-varlesh-x</author>
-  <homepage>https://store.kde.org/p/1166289</homepage>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1380833</homepage>
   <licence></licence>
-  <version>20211101</version>
-  <rating>92</rating>
-  <downloads>8863</downloads>
-  <installedfile>/home/younix/.local/share/icons/Papirus-Light/*</installedfile>
-  <installedfile>/home/younix/.local/share/icons/ePapirus/*</installedfile>
-  <installedfile>/home/younix/.local/share/icons/Papirus-Dark/*</installedfile>
-  <installedfile>/home/younix/.local/share/icons/ePapirus-Dark/*</installedfile>
-  <installedfile>/home/younix/.local/share/icons/Papirus/*</installedfile>
-  <id>1166289</id>
-  <releasedate>2021-11-01</releasedate>
-  <summary>Papirus - it's free and open source SVG-based icon theme for Linux with material and flat style.&lt;br />
-All elements have clear distinction and outlines. Also main feature - it's jucy colors tone.&lt;br />
-&lt;br />
-Papirus support hardcode-tray script:&lt;br />
-https://github.com/bil-elmoussaoui/Hardcode-Tray/&lt;br />
-&lt;br />
-Folder Color support:&lt;br />
-http://foldercolor.tuxfamily.org&lt;br />
-&lt;br />
-Dolphin Folder Color support:&lt;br />
-https://github.com/audoban/dolphin-folder-color&lt;br />
-&lt;br />
-Papirus Folders script:&lt;br />
-https://github.com/PapirusDevelopmentTeam/papirus-folders&lt;br />
-&lt;br />
-And KDE color scheme:&lt;br />
-https://techbase.kde.org/Development/Tutorials/Plasma5/ThemeDetails#Colors</summary>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>5342</downloads>
+  <installedfile>/home/younix/.local/share/icons/OneDark/*</installedfile>
+  <id>1380833</id>
+  <releasedate>2020-05-05</releasedate>
+  <summary>details soon</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/1/f/4/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/1/f/4/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU4MDU3MTgiLCJvIjoiMSIsInMiOiI4OGEyMTUwYjk0NGE2ZTk1M2NkOTI3ZGJkN2U4MWU4Nzk3ODNhMjVlZjgyMDhiYjJkZjIzMzFiMjQxZmNlYWEyNGZhNGRjYzdmNzY2YTc2NWUzNzc3MmZlODU0OWY4ODViZWUzZDZhOGI2YjlhY2YxZjJkNDE5MDZlZDZjZTY4YSIsInQiOjE2MzYxODI2NjYsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.UV-pfiQXm-HU8EAfAqE8vcDaLZu8hzYcup8alercv_E/papirus-icon-theme-20211101.tar.gz</payload>
-  <tags>linux,unix,papirus,icon-theme,icons,material,original-product,gplv3</tags>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg2NjI1NzgiLCJvIjoiMSIsInMiOiIyYjRlY2VjMzgxNjk3NWQwM2FjOWZmZjA1YjI5YzI2MmZhMGYwMTMyMDhjYzVkOGU5ZTU3MGVmZTcwNGE1YTYzNmIzZWFhYTAyNzg0YTAzOWY0OTZmOWNlNmU5MWE1NmNjYjNmMDliNjhhMDE3Zjg0ZDgzMjUyNDA5YmEwNzdiYSIsInQiOjE2MzYxODA2NTMsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.5uRmLmlNCpvxfNTO-4Zm1sgqtp0wdbvrs3KDbpnV4go/OneDark.tar.gz</payload>
+  <tags>one,dark,plasma,kde,cc-by-sa,modification-product,linux,unix,icon-theme</tags>
   <status>installed</status>
  </stuff>
  <stuff category="132">
-  <name>Breeze Chameleon Dark</name>
+  <name>BigSur icon theme</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>l4k1</author>
-  <homepage>https://store.kde.org/p/1281798</homepage>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1399044</homepage>
   <licence></licence>
-  <version>1.0</version>
-  <rating>84</rating>
-  <downloads>839</downloads>
-  <installedfile>/home/younix/.local/share/icons/Breeze Chameleon Dark/*</installedfile>
-  <id>1281798</id>
-  <releasedate>2021-11-05</releasedate>
-  <summary>The folders change color depending on the&lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+  <version></version>
+  <rating>74</rating>
+  <downloads>4068</downloads>
+  <installedfile>/home/younix/.local/share/icons/BigSur-black/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/BigSur-black-dark/*</installedfile>
+  <id>1399044</id>
+  <releasedate>2021-10-29</releasedate>
+  <summary>&lt;strong>All the ICONS are being optimized. Because of the large number, if there is an urgent need for use, we will give priority to optimizing and uploading immediately.&lt;/strong>&lt;br />
 &lt;br />
-&lt;strong>&lt;span style="color: blue;"> &lt;strong>Breeze-Round-Chameleon Dark Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1608771" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
- &lt;br />
-&lt;span style="color: blue;"> &lt;strong>- The icons are based on the Default "Breeze" Icon Theme.&lt;/strong> &lt;/span>&lt;br />
----------------------------------------------&lt;br />
+&lt;strong>Please understand the inconvenience caused to you.&lt;/strong>&lt;br />
 &lt;br />
-Icons for Light Plasma Themes:&lt;br />
+&lt;strong>A large number of ICONS have been optimized.&lt;/strong>&lt;br />
 &lt;br />
-&lt;span style="color: #d88d00;"> &lt;strong>Breeze Chameleon Light Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
-&lt;br />
-&lt;strong>&lt;span style="color: blue;"> &lt;strong>Breeze-Round-Chameleon Light Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1608766" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
-&lt;br />
-&lt;br />
-Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Charlie-Henson &lt;/span>&lt;/a>&lt;/strong>&lt;/strong></summary>
+&lt;strong>BigSur Icon Theme&lt;/strong>&lt;br />
+A colorful Design icon theme for linux desktops&lt;br />
+------------------------------&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;strong>Based on&lt;/strong>&lt;br />
+------------------------------&lt;br />
+1. numix-icon-theme-circle:&lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a>&lt;br />
+2. papirus-icon-theme:&lt;br />
+&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme" target="_blank" rel="nofollow">https://github.com/PapirusDevelopmentTeam/papirus-icon-theme&lt;/a>&lt;br />
+3. paper-icon-theme:&lt;br />
+&lt;a href="https://github.com/snwh/paper-icon-theme" target="_blank" rel="nofollow">https://github.com/snwh/paper-icon-theme&lt;/a>&lt;br />
+------------------------------</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/f/2/e/9017c87030219dda3f05fbb274290e7260a5e498cd8af5f997ed222b2298296bd6e1.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/f/2/e/9017c87030219dda3f05fbb274290e7260a5e498cd8af5f997ed222b2298296bd6e1.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzYxMjY5MDYiLCJvIjoiMSIsInMiOiJhNWMzNDhlY2JhOTI3ZTg0NzU0NmE0ODI0ODQ3OGNkYWRjMDk0MzhmMTI4Nzc5YjQxNWYxZWY4NzlmMmRjN2RhNWYyZTM3MTFkZDllMjk4YmRjNjIxMTZlZDgyNTFjMWViNWNkMTJkOTIwODU3OWQ1YWQ0ZDFiNDA3ZDU5YTE5YiIsInQiOjE2MzYxODA2MjgsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.o312BvGvn9nPXgn4ESSldFAgZiUZft0S4DSeTfF7dvc/Breeze Chameleon Dark.tar.gz</payload>
-  <tags>linux,unix,icon-theme,efi,gplv3</tags>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/0/5/a/7b67960545202a2263a5f67389b8bbe5d60a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/0/5/a/7b67960545202a2263a5f67389b8bbe5d60a.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU0ODc2NDYiLCJvIjoiMSIsInMiOiIwOTBmN2MyMTE0YTA2ZTE0OGRkM2NiYWVmZjNmNGRkY2VhOGM2YTg4ZDA4M2RjNjc3Mjc0NDA3MmUwMzRiZjJkZjU2ZmRhZGMzYmQ0OGE0MTI5ZmE2YTNlMTg4ODQ2OTgzMmVlNGQ0YThlN2Y2OTJiYjkxN2I1MGE1NmZiYTY4OSIsInQiOjE2MzYxODI0MzMsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.wvH4-Jk8vYjZlrhIUgT7Rlmr8YV5X5I8jsw07Sl93FY/BigSur-black.tar.xz</payload>
+  <tags>original-product,gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>McMojave-circle</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305429</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>14867</downloads>
+  <installedfile>/home/younix/.local/share/icons/McMojave-circle/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/McMojave-circle-dark/*</installedfile>
+  <id>1305429</id>
+  <releasedate>2021-10-27</releasedate>
+  <summary>MacOSX Mojave like circle icon theme for linux desktops&lt;br />
+--------------------------&lt;br />
+Based on OSX_ONE: &lt;a href="https://github.com/unc926/OSX_ONE" target="_blank" rel="nofollow">https://github.com/unc926/OSX_ONE&lt;/a>&lt;br />
+--------------------------&lt;br />
+&lt;strong>You can use this with:&lt;/strong>&lt;br />
+--------------------------&lt;br />
+&lt;strong>GTK theme&lt;/strong>&lt;br />
+Mojave-gtk-theme: &lt;a href="https://www.pling.com/p/1275087/" target="_blank" rel="nofollow">https://www.pling.com/p/1275087/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>KDE theme&lt;/strong>&lt;br />
+McMojave-kde: &lt;a href="https://www.pling.com/p/1304936/" target="_blank" rel="nofollow">https://www.pling.com/p/1304936/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Folder-color&lt;/strong>&lt;br />
+Folder-color: &lt;a href="http://foldercolor.tuxfamily.org" target="_blank" rel="nofollow">http://foldercolor.tuxfamily.org&lt;/a>&lt;br />
+--------------------------&lt;br />
+&lt;strong>Info&lt;/strong>&lt;br />
+--------------------------&lt;br />
+This theme use &lt;strong>numix-icon-theme-circle&lt;/strong> for Inherits&lt;br />
+so if you want a better experience you can install numix-circle&lt;br />
+&lt;br />
+&lt;strong>numix-icon-theme-circle&lt;/strong> :&lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/2/1/f/088a401b6c0998d484a63f7b5036ea945206.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/2/1/f/088a401b6c0998d484a63f7b5036ea945206.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzUzNDY5NTYiLCJvIjoiMSIsInMiOiI0NzMzYmRiZTRhMDZhZjQ2YTc0YWJjMDg0ODQxNmIyNzExNzBmNzhiYTVjMmRmZjVjMTExZDc4MmY1OTk4MTdmMjM5MmU5YTk0MjZhMGRhMmM3NDY3ZDI5MTA4Y2RmOWVjYTMwNjRhZTA0N2FiMWUyZjc2ODFlZWIwMGY0YTM5MCIsInQiOjE2MzY5NTIzMTAsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.hISXO-tkurb4_kdNN7UTN9srE3wbZdpzz4UQ8o2BtTs/01-McMojave-circle.tar.xz</payload>
+  <tags>gplv3,linux,unix,icon-theme</tags>
   <status>installed</status>
  </stuff>
  <stuff category="132">
@@ -129,43 +157,43 @@ Tela-circle: &lt;br />
   <status>installed</status>
  </stuff>
  <stuff category="132">
-  <name>BigSur icon theme</name>
+  <name>Papirus</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>yeyushengfan258</author>
-  <homepage>https://store.kde.org/p/1399044</homepage>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1166289</homepage>
   <licence></licence>
-  <version></version>
-  <rating>74</rating>
-  <downloads>4068</downloads>
-  <installedfile>/home/younix/.local/share/icons/BigSur-black/*</installedfile>
-  <installedfile>/home/younix/.local/share/icons/BigSur-black-dark/*</installedfile>
-  <id>1399044</id>
-  <releasedate>2021-10-29</releasedate>
-  <summary>&lt;strong>All the ICONS are being optimized. Because of the large number, if there is an urgent need for use, we will give priority to optimizing and uploading immediately.&lt;/strong>&lt;br />
+  <version>20211101</version>
+  <rating>92</rating>
+  <downloads>8863</downloads>
+  <installedfile>/home/younix/.local/share/icons/Papirus-Light/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/ePapirus/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/Papirus-Dark/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/ePapirus-Dark/*</installedfile>
+  <installedfile>/home/younix/.local/share/icons/Papirus/*</installedfile>
+  <id>1166289</id>
+  <releasedate>2021-11-01</releasedate>
+  <summary>Papirus - it's free and open source SVG-based icon theme for Linux with material and flat style.&lt;br />
+All elements have clear distinction and outlines. Also main feature - it's jucy colors tone.&lt;br />
 &lt;br />
-&lt;strong>Please understand the inconvenience caused to you.&lt;/strong>&lt;br />
+Papirus support hardcode-tray script:&lt;br />
+https://github.com/bil-elmoussaoui/Hardcode-Tray/&lt;br />
 &lt;br />
-&lt;strong>A large number of ICONS have been optimized.&lt;/strong>&lt;br />
+Folder Color support:&lt;br />
+http://foldercolor.tuxfamily.org&lt;br />
 &lt;br />
-&lt;strong>BigSur Icon Theme&lt;/strong>&lt;br />
-A colorful Design icon theme for linux desktops&lt;br />
-------------------------------&lt;br />
-You can use this theme on all popular desktops&lt;br />
-------------------------------&lt;br />
-&lt;strong>Based on&lt;/strong>&lt;br />
-------------------------------&lt;br />
-1. numix-icon-theme-circle:&lt;br />
-&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a>&lt;br />
-2. papirus-icon-theme:&lt;br />
-&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme" target="_blank" rel="nofollow">https://github.com/PapirusDevelopmentTeam/papirus-icon-theme&lt;/a>&lt;br />
-3. paper-icon-theme:&lt;br />
-&lt;a href="https://github.com/snwh/paper-icon-theme" target="_blank" rel="nofollow">https://github.com/snwh/paper-icon-theme&lt;/a>&lt;br />
-------------------------------</summary>
+Dolphin Folder Color support:&lt;br />
+https://github.com/audoban/dolphin-folder-color&lt;br />
+&lt;br />
+Papirus Folders script:&lt;br />
+https://github.com/PapirusDevelopmentTeam/papirus-folders&lt;br />
+&lt;br />
+And KDE color scheme:&lt;br />
+https://techbase.kde.org/Development/Tutorials/Plasma5/ThemeDetails#Colors</summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/0/5/a/7b67960545202a2263a5f67389b8bbe5d60a.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/0/5/a/7b67960545202a2263a5f67389b8bbe5d60a.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU0ODc2NDYiLCJvIjoiMSIsInMiOiIwOTBmN2MyMTE0YTA2ZTE0OGRkM2NiYWVmZjNmNGRkY2VhOGM2YTg4ZDA4M2RjNjc3Mjc0NDA3MmUwMzRiZjJkZjU2ZmRhZGMzYmQ0OGE0MTI5ZmE2YTNlMTg4ODQ2OTgzMmVlNGQ0YThlN2Y2OTJiYjkxN2I1MGE1NmZiYTY4OSIsInQiOjE2MzYxODI0MzMsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.wvH4-Jk8vYjZlrhIUgT7Rlmr8YV5X5I8jsw07Sl93FY/BigSur-black.tar.xz</payload>
-  <tags>original-product,gplv3,linux,unix,icon-theme</tags>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/1/f/4/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/1/f/4/ad0f14c12a71f289fa3632bf2835f6bb9d251967c1665cb661f60931346ab663c838.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU4MDU3MTgiLCJvIjoiMSIsInMiOiI4OGEyMTUwYjk0NGE2ZTk1M2NkOTI3ZGJkN2U4MWU4Nzk3ODNhMjVlZjgyMDhiYjJkZjIzMzFiMjQxZmNlYWEyNGZhNGRjYzdmNzY2YTc2NWUzNzc3MmZlODU0OWY4ODViZWUzZDZhOGI2YjlhY2YxZjJkNDE5MDZlZDZjZTY4YSIsInQiOjE2MzYxODI2NjYsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.UV-pfiQXm-HU8EAfAqE8vcDaLZu8hzYcup8alercv_E/papirus-icon-theme-20211101.tar.gz</payload>
+  <tags>linux,unix,papirus,icon-theme,icons,material,original-product,gplv3</tags>
   <status>installed</status>
  </stuff>
  <stuff category="132">
@@ -241,23 +269,63 @@ Have fun ;)</summary>
   <status>installed</status>
  </stuff>
  <stuff category="132">
-  <name>One dark icons</name>
+  <name>Breeze Chameleon Dark</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>adhe</author>
-  <homepage>https://store.kde.org/p/1380833</homepage>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1281798</homepage>
   <licence></licence>
-  <version>0.1</version>
-  <rating>50</rating>
-  <downloads>5342</downloads>
-  <installedfile>/home/younix/.local/share/icons/OneDark/*</installedfile>
-  <id>1380833</id>
-  <releasedate>2020-05-05</releasedate>
-  <summary>details soon</summary>
+  <version>1.0</version>
+  <rating>84</rating>
+  <downloads>839</downloads>
+  <installedfile>/home/younix/.local/share/icons/Breeze Chameleon Dark/*</installedfile>
+  <id>1281798</id>
+  <releasedate>2021-11-05</releasedate>
+  <summary>The folders change color depending on the&lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: blue;"> &lt;strong>Breeze-Round-Chameleon Dark Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1608771" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+ &lt;br />
+&lt;span style="color: blue;"> &lt;strong>- The icons are based on the Default "Breeze" Icon Theme.&lt;/strong> &lt;/span>&lt;br />
+---------------------------------------------&lt;br />
+&lt;br />
+Icons for Light Plasma Themes:&lt;br />
+&lt;br />
+&lt;span style="color: #d88d00;"> &lt;strong>Breeze Chameleon Light Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>&lt;span style="color: blue;"> &lt;strong>Breeze-Round-Chameleon Light Icons&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1608766" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Charlie-Henson &lt;/span>&lt;/a>&lt;/strong>&lt;/strong></summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg2NjI1NzgiLCJvIjoiMSIsInMiOiIyYjRlY2VjMzgxNjk3NWQwM2FjOWZmZjA1YjI5YzI2MmZhMGYwMTMyMDhjYzVkOGU5ZTU3MGVmZTcwNGE1YTYzNmIzZWFhYTAyNzg0YTAzOWY0OTZmOWNlNmU5MWE1NmNjYjNmMDliNjhhMDE3Zjg0ZDgzMjUyNDA5YmEwNzdiYSIsInQiOjE2MzYxODA2NTMsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.5uRmLmlNCpvxfNTO-4Zm1sgqtp0wdbvrs3KDbpnV4go/OneDark.tar.gz</payload>
-  <tags>one,dark,plasma,kde,cc-by-sa,modification-product,linux,unix,icon-theme</tags>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/f/2/e/9017c87030219dda3f05fbb274290e7260a5e498cd8af5f997ed222b2298296bd6e1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/f/2/e/9017c87030219dda3f05fbb274290e7260a5e498cd8af5f997ed222b2298296bd6e1.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzYxMjY5MDYiLCJvIjoiMSIsInMiOiJhNWMzNDhlY2JhOTI3ZTg0NzU0NmE0ODI0ODQ3OGNkYWRjMDk0MzhmMTI4Nzc5YjQxNWYxZWY4NzlmMmRjN2RhNWYyZTM3MTFkZDllMjk4YmRjNjIxMTZlZDgyNTFjMWViNWNkMTJkOTIwODU3OWQ1YWQ0ZDFiNDA3ZDU5YTE5YiIsInQiOjE2MzYxODA2MjgsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.o312BvGvn9nPXgn4ESSldFAgZiUZft0S4DSeTfF7dvc/Breeze Chameleon Dark.tar.gz</payload>
+  <tags>linux,unix,icon-theme,efi,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Candy icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1305251</homepage>
+  <licence></licence>
+  <version>0.3.2</version>
+  <rating>94</rating>
+  <downloads>2469</downloads>
+  <installedfile>/home/younix/.local/share/icons/candy-icons/*</installedfile>
+  <id>1305251</id>
+  <releasedate>2021-11-13</releasedate>
+  <summary>Sweet gradient icon theme originally created to fit my &lt;a href="https://www.gnome-look.org/p/1253385/" target="_blank" rel="nofollow">Sweet&lt;/a> theme&lt;br />
+&lt;br />
+If you want you can combine them with any of the options provided in &lt;a href="https://www.opendesktop.org/p/1284047/" target="_blank" rel="nofollow">sweet-folders&lt;/a> as shown in the second screenshot&lt;br />
+&lt;br />
+&lt;strong>Note&lt;/strong>&lt;br />
+&lt;br />
+To request for icons please &lt;a href="https://github.com/EliverLara/candy-icons/issues" target="_blank" rel="nofollow">open an issue&lt;/a> on github, or if you want to contribute open a &lt;a href="https://github.com/EliverLara/candy-icons/pulls" target="_blank" rel="nofollow">pull request&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/9/e/9/4312748331a5528be7ec2f64b811c6c96259.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/9/e/9/4312748331a5528be7ec2f64b811c6c96259.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY4MzQ3MDAiLCJvIjoiMSIsInMiOiI5OWNkNGFmZjAwMWI4MjUxYTA0M2FjYWE1NzgzMTQxNTU5Nzk1ZmY3MDQ0Zjk4ZmZjNzJmMzBkNThkODFlYjc5NWRkOWQ4NWEzYTEzNGVmNzZlNGQ2MWViNmU5YzY3NTQyMGQ4OWYxNTgwYTVhOGNkYzY4MGM3YmRkMTlmNTE4MiIsInQiOjE2MzY5NTAwMDQsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.iRCjVdYQf1qWNytTzC5S2811RhIT2gOckWy_wCg9U3s/candy-icons.tar.xz</payload>
+  <tags>linux,unix,icon-theme,gplv3,original-product</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

@@ -2,30 +2,6 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="462">
-  <name>Nordic konsole</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>eliverlara</author>
-  <homepage>https://store.kde.org/p/1329371</homepage>
-  <licence></licence>
-  <version></version>
-  <rating>68</rating>
-  <downloads>43667</downloads>
-  <installedfile>/home/younix/.local/share/konsole/Nordic.colorscheme</installedfile>
-  <id>1329371</id>
-  <releasedate>2019-10-08</releasedate>
-  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
-&lt;br />
-Suggested settings: &lt;br />
-&lt;br />
-&lt;a href="https://www.pling.com/p/1326896/" target="_blank" rel="nofollow"> Nordic Plasma theme...</summary>
-  <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/6/c/7/a8e4ad61130ea319918c9ca217fd145964c7.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/6/c/7/a8e4ad61130ea319918c9ca217fd145964c7.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzA1NjA5MjMiLCJvIjoiMSIsInMiOiI5MzcwMTIzOTgzNmYwMmQ5ZmVlMjI0N2NmNWFmNzk3MmFmOTg0YWQzNGVlMTI1MDk0YzNhNjE4NDcyNzYwMTk2ZDJmNmIxMjllOTA3MzE2ZmQ1YjNiYmM1Yjk4MzU4OWI4YWU5NjcwMTVmNzc4ODljODMwMTI2YTdkNDIyMjg1NCIsInQiOjE2MzYxNzkzNTgsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.khQh9NqS9KiBo0_pTZunnMTaTNQ8_pg2vQFBmPgwMDs/Nordic.colorscheme</payload>
-  <tags>addon,gplv3</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="462">
   <name>Dracula</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
   <author>tiny6996</author>
@@ -43,6 +19,94 @@ Suggested settings: &lt;br />
   <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/2/b/e/8861312a57cfafded6aea59e41c0f3518757.png</previewBig>
   <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjExODI3MjQiLCJvIjoiMSIsInMiOiIzOWViNzI2MDllZTU3NjU2ZmRjM2QwNWFjYjc3ZTlmNDVlZWZmYWM2MzJkNDM0NzdkYWUzMDE3YjY5MjRiNWE4NTRmNmEzZTQ4NWYwNmFkNTM1NGEzODUxYTJjZjg4YTFmMzhkNjhjYzYwZTRmZTJkOTQxZjk5ZjY1Y2E3MWVhNSIsInQiOjE2MzYxNzkzNjksInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.yXx5aqi33pirxb8rP4T4_CJWPhT1Fu8D1aDQsmuE9tE/Dracula.colorscheme</payload>
   <tags>addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Materia Dark KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1462616</homepage>
+  <licence></licence>
+  <version>20210410</version>
+  <rating>69</rating>
+  <downloads>7576</downloads>
+  <installedfile>/home/younix/.local/share/konsole/MateriaDark.colorscheme</installedfile>
+  <id>1462616</id>
+  <releasedate>2021-04-10</releasedate>
+  <summary>Materia pack for Plasma 5 desktop.&lt;br />
+&lt;br />
+Please use Kvantum Engine and Theme for better looking:&lt;br />
+https://www.pling.com/p/1229126&lt;br />
+&lt;br />
+Install full Materia pack from my collection.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/9/f/e/b4bb3a89f35bc27503d3c14398f0787a300d0b625f00fb1c88406f8bb2c5b17bd446.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/9/f/e/b4bb3a89f35bc27503d3c14398f0787a300d0b625f00fb1c88406f8bb2c5b17bd446.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTgwMzk2MDciLCJvIjoiMSIsInMiOiJlNzFjY2YzZjhkMjM1N2FhY2NjYzY4YTkzOWJkMjBkMWYwZjU4YmEzNGIwNjQ2ZjRmODUxMDEzZTk0MTRjNTQ5NmM2NmQwOWE2YThlMWQ0NGM4ZjFkMjg3ODg2YjkwOTE1N2MyMjQ5OGJjZGY3NjAxMDBkNzhmZDg1ZTM1M2JlNyIsInQiOjE2MzY5NTExNDMsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.F2uvPMyIpaKGPUIB5iO3f1LkvXxc75eAqEt9HeahZ38/MateriaDark.colorscheme</payload>
+  <tags>materia,dark,material,kde,gplv3,original-product,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Everforest Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>sainnhe</author>
+  <homepage>https://store.kde.org/p/1638304</homepage>
+  <licence></licence>
+  <version>0.1.0</version>
+  <rating>50</rating>
+  <downloads>75</downloads>
+  <installedfile>/home/younix/.local/share/konsole/Everforest Hard Dark.colorscheme</installedfile>
+  <id>1638304</id>
+  <releasedate>2021-11-09</releasedate>
+  <summary>Port of everforest color scheme (dark variant)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/d/d/f/f14b0168be6130e05d5927e4f33115a671c7ac58be17365ca35c9804e085e1fa5de1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/d/d/f/f14b0168be6130e05d5927e4f33115a671c7ac58be17365ca35c9804e085e1fa5de1.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY0NjQ0NzciLCJvIjoiMSIsInMiOiJkOGI2NjJkYzkxZmExZWI2MjgwNjYyODU4YzA3NDc2N2NjNTY2NTlmODAyNjRiYjlmNWY0YWNjNDAyZWNiMzMyZThlM2FhOTM3MGFhMGE3ZTA3ZGMyYTJiNGUxMmU4ODRlMzk3MGM0YjM4ZDYxNTRhMGEyZDYxNmFmZGZkZjcwMSIsInQiOjE2MzY5NTI3MjgsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.-AxCPxyrM6uo9wkOvvKOE45jXIJYdfEJGHN3yKNus4s/Everforest Hard Dark.colorscheme</payload>
+  <tags>green,addon,original-product,mit-license</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Everforest Light</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>sainnhe</author>
+  <homepage>https://store.kde.org/p/1638310</homepage>
+  <licence></licence>
+  <version>0.1.0</version>
+  <rating>50</rating>
+  <downloads>34</downloads>
+  <installedfile>/home/younix/.local/share/konsole/Everforest Hard Light.colorscheme</installedfile>
+  <id>1638310</id>
+  <releasedate>2021-11-09</releasedate>
+  <summary>Port of everforest color scheme (light variant)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/f/8/5/a7bd9f57daeb39487361396dd045f86128664fe34965c226dfdb93a276be0fdbcee2.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/f/8/5/a7bd9f57daeb39487361396dd045f86128664fe34965c226dfdb93a276be0fdbcee2.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY0NjQ1MTgiLCJvIjoiMSIsInMiOiIwYTQ2MGEyZmRjNjUyMzBkYmUyOWVmNTZlMTE4ZWI0YTQ3ZDhhMjYzYjljZGQyM2Q4M2ZkODQ5YTk2ZDFjOTZiNWQwMGY1MDgwMDM5ODFiNjUwNjNmN2IwYmRiZWIzYWUzMWMzZWFiYThlYjE5ZTEwMzgzMzY1NTk5ZWRkNTZkNSIsInQiOjE2MzY5NjE3NzcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.Fj2LVeGtwZp68xOUU-XmAUvJOiEPB5BYTU_NZUG17X4/Everforest Hard Light.colorscheme</payload>
+  <tags>green,addon,mit-license,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Material - Konsole</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Rokin</author>
+  <homepage>https://store.kde.org/p/1232365</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>50</rating>
+  <downloads>12125</downloads>
+  <installedfile>/home/younix/.local/share/konsole/Material.colorscheme</installedfile>
+  <id>1232365</id>
+  <releasedate>2018-05-06</releasedate>
+  <summary>Material - Konsole&lt;br />
+&lt;br />
+Material color scheme port for Konsole (src: &lt;a href="http://www.xcolors.net/dl/material" target="_blank" rel="nofollow">Xdefaults&lt;/a>).&lt;br />
+(Install Path : ~/.local/share/konsole)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/2/c/4/e67d93acabede3820120d0d5022d7082c0e4.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/2/c/4/e67d93acabede3820120d0d5022d7082c0e4.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MjU1OTgwODIiLCJvIjoiMSIsInMiOiJmZjY3YzlhYjYwMzFjYWYwOGQ1YTdjNzdlNjBmMjJiMDVmODk5MDA2M2Q3MWYzYzQ0NmU2OTY2YWQwZmNhMzJkY2JhYTdiNTQ0NzJlYTZkNDkxYjg4NTQ3MjY5YjJhYzQzNzFlYzdjYTE4YWQ1OTIzYWQxYjExNDg0NzNlZTAwZSIsInQiOjE2MzY5NTEzNzAsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.ZtR2uB_V3PD93Hg9lvj3Ve4DtxWgJBA3zf0RRkxw6Gg/Material.colorscheme</payload>
+  <tags>kde,konsole,term,terminal,color-scheme,gplv3,addon</tags>
   <status>installed</status>
  </stuff>
  <stuff category="462">
@@ -67,6 +131,30 @@ Based on the gruvbox scheme colors for vim [https://github.com/morhetz/gruvbox](
   <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</previewBig>
   <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk3MzY4MjIiLCJvIjoiMSIsInMiOiI5N2QzZWI5ZGZkYTVmNmNhZWQxYTIxNTAxMmEwM2I1YzliMTAyMmI3MGMyMGM4ZWIwZDI4NGU1MDAyOGU4NmZhMDhlNmI1NWVlYmQ4MDNlYjQ4OWIxNWU2ODRiY2UwMWIxZTRmZGM1OTFkNDBjNjIxNjU2MGY5NjZhM2RjNGM4NyIsInQiOjE2MzYxNzkzNDcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.ucSxPYAZJDMj7Wi-AF3vmJmz5M18V-BWYj-AYGBSKVU/Gruvbox.colorscheme.tar.gz</payload>
   <tags>addon,original-product,gplv3,konsole</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="462">
+  <name>Nordic konsole</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1329371</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>43667</downloads>
+  <installedfile>/home/younix/.local/share/konsole/Nordic.colorscheme</installedfile>
+  <id>1329371</id>
+  <releasedate>2019-10-08</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1326896/" target="_blank" rel="nofollow"> Nordic Plasma theme...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/6/c/7/a8e4ad61130ea319918c9ca217fd145964c7.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/6/c/7/a8e4ad61130ea319918c9ca217fd145964c7.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzA1NjA5MjMiLCJvIjoiMSIsInMiOiI5MzcwMTIzOTgzNmYwMmQ5ZmVlMjI0N2NmNWFmNzk3MmFmOTg0YWQzNGVlMTI1MDk0YzNhNjE4NDcyNzYwMTk2ZDJmNmIxMjllOTA3MzE2ZmQ1YjNiYmM1Yjk4MzU4OWI4YWU5NjcwMTVmNzc4ODljODMwMTI2YTdkNDIyMjg1NCIsInQiOjE2MzYxNzkzNTgsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.khQh9NqS9KiBo0_pTZunnMTaTNQ8_pg2vQFBmPgwMDs/Nordic.colorscheme</payload>
+  <tags>addon,gplv3</tags>
   <status>installed</status>
  </stuff>
  <stuff category="462">

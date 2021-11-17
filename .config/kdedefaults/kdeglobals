@@ -1,8 +1,8 @@
 [General]
-ColorScheme=McSurLight
+ColorScheme=GruvboxColors
 
 [Icons]
-Theme=BigSur
+Theme=Gruvbox
 
 [KDE]
 widgetStyle=Breeze

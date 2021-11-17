@@ -198,7 +198,7 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_1_2Triggers0]
-Key=Meta+T
+Key=
 Type=SHORTCUT
 Uuid={4b25a4a8-d781-4e6e-bf8c-c92edfbcfa2b}
 
@@ -1019,7 +1019,11 @@ TriggersCount=1
 GesturePointData=0,0.0625,-0.5,0.5,1,0.0625,0.0625,-0.5,0.5,0.875,0.125,0.0625,-0.5,0.5,0.75,0.1875,0.0625,-0.5,0.5,0.625,0.25,0.0625,-0.5,0.5,0.5,0.3125,0.0625,-0.5,0.5,0.375,0.375,0.0625,-0.5,0.5,0.25,0.4375,0.0625,-0.5,0.5,0.125,0.5,0.0625,0.5,0.5,0,0.5625,0.0625,0.5,0.5,0.125,0.625,0.0625,0.5,0.5,0.25,0.6875,0.0625,0.5,0.5,0.375,0.75,0.0625,0.5,0.5,0.5,0.8125,0.0625,0.5,0.5,0.625,0.875,0.0625,0.5,0.5,0.75,0.9375,0.0625,0.5,0.5,0.875,1,0,0,0.5,1
 Type=GESTURE
 
+[Directories]
+dir_pixmap[$d]
+
 [General]
+BrowserApplication[$d]
 ColorScheme[$d]
 Name[$d]
 XftAntialias[$d]
@@ -1046,19 +1050,32 @@ WindowsCount=0
 Theme[$d]
 
 [KDE]
+ChangeCursor[$d]
 ColorScheme[$d]
+DefaultDarkLookAndFeel[$d]
+DefaultLightLookAndFeel[$d]
 LookAndFeelPackage[$d]
 SingleClick[$d]
 contrast[$d]
 widgetStyle[$d]
+
+[KFileDialog Settings]
+Breadcrumb Navigation[$d]
 
 [Main]
 AlreadyImported=defaults,kde32b1,konqueror_gestures_kde321,konsole
 Disabled=false
 Version=2
 
+[Paths]
+Trash[$d]
+
 [PreviewSettings]
 MaximumRemoteSize[$d]
+MaximumSize[$d]
+camera[$d]
+file[$d]
+fonts[$d]
 
 [Voice]
 Shortcut=
