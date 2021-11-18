@@ -1,29 +1,27 @@
 [Desktop Entry]
-Name=McMojave
-Comment=A MacOS Mojave like theme for Plasma 5
+Name=GruvboxPlasma
+Comment=Gruvbox theme for plasma 
 
-X-KDE-PluginInfo-Author=vince liuice
-X-KDE-PluginInfo-Category=Plasma Theme
-X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
-X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=GLP V3.0
+X-KDE-PluginInfo-Author=adhe
+X-KDE-PluginInfo-Email=adhemarks[at]gmail[dot]com
 X-KDE-PluginInfo-Name=default
-X-KDE-PluginInfo-Version=5.78.0
-X-KDE-PluginInfo-Website=https://plasma.kde.org
+X-KDE-PluginInfo-Version=5.62.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
 [Wallpaper]
-defaultWallpaperTheme=McMojave
-defaultFileSuffix=.jpg
+defaultWallpaperTheme=Next
+defaultFileSuffix=.png
 defaultWidth=1920
 defaultHeight=1080
 
 [ContrastEffect]
-enabled=true
+enabled=false
 contrast=0.2
 #intensity is disabled, in order to auto adjust to the chosen theme color
 #intensity=2.0
 saturation=1.7
-
-[AdaptiveTransparency]
-enabled = true

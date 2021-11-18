@@ -34,7 +34,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][25][Applets][30][Configuration]
-PreloadWeight=15
+PreloadWeight=50
 SystrayContainmentId=31
 
 [Containments][25][Applets][47]
@@ -56,7 +56,7 @@ immutability=1
 plugin=org.kde.plasma.fuzzyclock
 
 [Containments][25][Applets][49][Configuration]
-PreloadWeight=32
+PreloadWeight=67
 
 [Containments][25][ConfigDialog]
 DialogHeight=84
@@ -128,7 +128,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][31][Applets][44][Configuration]
-PreloadWeight=10
+PreloadWeight=30
 
 [Containments][31][Applets][45]
 immutability=1
@@ -183,7 +183,7 @@ ToolBoxButtonState=topcenter
 ToolBoxButtonX=509
 
 [Containments][50][Wallpaper][org.kde.image][General]
-Image=file:///home/younix/.wallpapers/gruvbox/steven-van-elk-Zyv7Dc-lOjw-unsplash.jpg
+Image=file:///home/younix/.wallpapers/gruvbox/conscious-design-VaOmaJD08F4-unsplash.jpg
 
 [Containments][51]
 ItemGeometries-1920x1080=
@@ -200,7 +200,7 @@ wallpaperplugin=org.kde.image
 PreloadWeight=0
 
 [Containments][51][Wallpaper][org.kde.image][General]
-Image=file:///home/younix/.wallpapers/gruvbox/steven-van-elk-Zyv7Dc-lOjw-unsplash.jpg
+Image=file:///home/younix/.wallpapers/gruvbox/conscious-design-VaOmaJD08F4-unsplash.jpg
 
 [Containments][52]
 ItemGeometries-1920x1080=
@@ -217,7 +217,7 @@ wallpaperplugin=org.kde.image
 PreloadWeight=0
 
 [Containments][52][Wallpaper][org.kde.image][General]
-Image=file:///home/younix/.wallpapers/gruvbox/steven-van-elk-Zyv7Dc-lOjw-unsplash.jpg
+Image=file:///home/younix/.wallpapers/gruvbox/conscious-design-VaOmaJD08F4-unsplash.jpg
 
 [ScreenMapping]
 itemsOnDisabledScreens=
