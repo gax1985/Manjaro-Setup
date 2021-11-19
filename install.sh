@@ -9,13 +9,12 @@ yay -S alacritty-themes dropbox visual-studio-code-bin expressvpn spotify tutano
 python3 -m pip install -U https://github.com/leovoel/BeautifulDiscord/archive/master.zip
 
 # copy config files
-rsyncj -a .config .local .py .wallpapers .zshrc ~/
+rsync -a .config .local .py .wallpapers .zshrc ~/
 
 # start and enable expressvpn daemon on login
 sudo systemctl enable expressvpn
 sudo systemctl start expressvpn
 
-# set privileges for powerline configuration
-sudo chmod ugo+rwx /usr/share/zsh
-p10k configure
-sudo chmod ugo-w /usr/share/zsh
+# sudo chmod ugo+rwx /usr/share/zsh
+# p10k configure
+# sudo chmod ugo-w /usr/share/zsh
