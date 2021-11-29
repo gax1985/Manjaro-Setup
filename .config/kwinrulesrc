@@ -1,5 +1,5 @@
 [$Version]
-update_info=kwinrules.upd:replace-placement-string-to-enum
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
 
 [1]
 Description=Hide Titles
@@ -20,3 +20,4 @@ wmclassmatch=3
 
 [General]
 count=2
+rules=1,2

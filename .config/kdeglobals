@@ -3,140 +3,65 @@ update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd
 
 [ColorEffects:Disabled]
 ChangeSelectionColor=
-Color=56,56,56
-ColorAmount=0
-ColorEffect=0
-ContrastAmount=0.65000000000000002
-ContrastEffect=1
+Color=152,123,107
+ColorAmount=
+ColorEffect=
+ContrastAmount=
+ContrastEffect=
 Enable=
-IntensityAmount=0.10000000000000001
-IntensityEffect=2
+IntensityAmount=
+IntensityEffect=
 
 [ColorEffects:Inactive]
-ChangeSelectionColor=true
-Color=112,111,110
-ColorAmount=0.025000000000000001
-ColorEffect=2
-ContrastAmount=0.10000000000000001
-ContrastEffect=2
-Enable=true
-IntensityAmount=0
-IntensityEffect=0
+ChangeSelectionColor=
+Color=152,123,107
+ColorAmount=
+ColorEffect=
+ContrastAmount=
+ContrastEffect=
+Enable=
+IntensityAmount=
+IntensityEffect=
 
 [Colors:Button]
-BackgroundAlternate=60,56,54
-BackgroundNormal=40,40,40
-DecorationFocus=104,157,106
-DecorationHover=131,165,152
-ForegroundActive=142,192,124
-ForegroundInactive=55,115,117
-ForegroundLink=184,187,38
-ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
-ForegroundNormal=235,219,178
-ForegroundPositive=39,174,96
-ForegroundVisited=127,140,141
+BackgroundNormal=30,11,2
+DecorationFocus=218,176,154
+DecorationHover=218,176,154
+ForegroundNormal=218,176,154
 
 [Colors:Complementary]
-BackgroundAlternate=66,66,66
-BackgroundNormal=51,51,51
-DecorationFocus=30,130,255
-DecorationHover=30,130,255
-ForegroundActive=30,130,255
-ForegroundInactive=120,120,120
-ForegroundLink=49,91,239
-ForegroundNegative=231,76,60
-ForegroundNeutral=253,188,75
-ForegroundNormal=239,240,241
-ForegroundPositive=46,204,113
-ForegroundVisited=120,120,120
-
-[Colors:Header]
-BackgroundAlternate=54,56,62
-BackgroundNormal=49,49,58
-DecorationFocus=86,87,245
-DecorationHover=86,87,245
-ForegroundActive=255,128,224
-ForegroundInactive=153,153,153
-ForegroundLink=66,133,244
-ForegroundNegative=191,3,3
-ForegroundNeutral=176,128,0
-ForegroundNormal=234,234,234
-ForegroundPositive=0,110,40
-ForegroundVisited=224,64,251
-
-[Colors:Header][Inactive]
-BackgroundAlternate=54,56,62
-BackgroundNormal=49,49,58
-DecorationFocus=86,87,245
-DecorationHover=86,87,245
-ForegroundActive=255,128,224,150
-ForegroundInactive=153,153,153
-ForegroundLink=66,133,244
-ForegroundNegative=191,3,3
-ForegroundNeutral=176,128,0
-ForegroundNormal=234,234,234,150
-ForegroundPositive=0,110,40
-ForegroundVisited=224,64,251
+BackgroundNormal=30,11,2
+DecorationFocus=218,176,154
+DecorationHover=218,176,154
+ForegroundNormal=218,176,154
 
 [Colors:Selection]
-BackgroundAlternate=142,192,124
-BackgroundNormal=104,157,106
-DecorationFocus=104,157,106
-DecorationHover=131,165,152
-ForegroundActive=252,252,252
-ForegroundInactive=235,219,178
-ForegroundLink=253,188,75
-ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
-ForegroundNormal=235,219,178
-ForegroundPositive=39,174,96
-ForegroundVisited=189,195,199
+BackgroundNormal=152,123,107
+DecorationFocus=218,176,154
+DecorationHover=218,176,154
+ForegroundNormal=218,176,154
 
 [Colors:Tooltip]
-BackgroundAlternate=60,56,54
-BackgroundNormal=40,40,40
-DecorationFocus=104,157,106
-DecorationHover=131,165,152
-ForegroundActive=184,187,38
-ForegroundInactive=55,115,117
-ForegroundLink=142,192,124
-ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
-ForegroundNormal=235,219,178
-ForegroundPositive=39,174,96
-ForegroundVisited=127,140,141
+BackgroundNormal=30,11,2
+DecorationFocus=218,176,154
+DecorationHover=218,176,154
+ForegroundNormal=218,176,154
 
 [Colors:View]
-BackgroundAlternate=60,56,54
-BackgroundNormal=40,40,40
-DecorationFocus=104,157,106
-DecorationHover=131,165,152
-ForegroundActive=184,187,38
-ForegroundInactive=55,115,117
-ForegroundLink=142,192,124
-ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
-ForegroundNormal=235,219,178
-ForegroundPositive=39,174,96
-ForegroundVisited=127,140,141
+BackgroundNormal=30,11,2
+DecorationFocus=218,176,154
+DecorationHover=218,176,154
+ForegroundNormal=218,176,154
 
 [Colors:Window]
-BackgroundAlternate=60,56,54
-BackgroundNormal=40,40,40
-DecorationFocus=104,157,106
-DecorationHover=131,165,152
-ForegroundActive=184,187,38
-ForegroundInactive=55,115,117
-ForegroundLink=142,192,124
-ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
-ForegroundNormal=235,219,178
-ForegroundPositive=39,174,96
-ForegroundVisited=127,140,141
+BackgroundNormal=30,11,2
+DecorationFocus=231,191,161
+DecorationHover=231,191,161
+ForegroundNormal=218,176,154
 
 [General]
-Name=GruvboxColors
+ColorScheme=pywal
+Name=McSurLight
 fixed=MesloLGS NF,10,-1,5,50,0,0,0,0,0
 font=MesloLGS NF,10,-1,5,50,0,0,0,0,0
 menuFont=MesloLGS NF,10,-1,5,50,0,0,0,0,0
@@ -145,20 +70,54 @@ smallestReadableFont=MesloLGS NF,8,-1,5,50,0,0,0,0,0
 toolBarFont=MesloLGS NF,10,-1,5,50,0,0,0,0,0
 widgetStyle=Breeze
 
+[Icons]
+Theme=Papirus
+
 [KDE]
 ColorScheme=BreezeLight
-LookAndFeelPackage=GruvboxPlasma
+LookAndFeelPackage=org.manjaro.breath2-2021.desktop
 SingleClick=true
-contrast=4
+contrast=0
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=107
+View Style=DetailTree
 
 [PreviewSettings]
 MaximumRemoteSize=0
 
 [WM]
-activeBackground=39,39,39
-activeBlend=235,219,178
+ActiveBackground=30,24,28
+ActiveForeground=246,217,212
+BackgroundNormal=30,11,2
+DecorationFocus=218,176,154
+DecorationHover=218,176,154
+ForegroundNormal=218,176,154
+InactiveBackground=30,24,28
+InactiveForeground=246,217,212
+NormalBackground=30,24,28
+NormalForeground=246,217,212
+activeBackground=15,19,25
+activeBlend=15,19,25
 activeFont=MesloLGS NF,10,-1,5,50,0,0,0,0,0
-activeForeground=235,219,178
-inactiveBackground=40,40,40
-inactiveBlend=60,56,54
-inactiveForeground=204,190,155
+activeForeground=195,200,202
+inactiveBackground=15,19,25
+inactiveBlend=15,19,25
+inactiveForeground=195,200,202
+normalBackground=15,19,25
+normalForeground=195,200,202

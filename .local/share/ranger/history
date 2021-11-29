@@ -12,9 +12,38 @@ shell mkdir alacritty
 shell touch alacritty.yml
 shell git clone http://github.com/YoussefE95/Manjaro-Setup
 shell touch .p10k.zsh
-filter zsh
 shell code .p10k.zsh
-delete
 filter zs
 rename .p10k.zsh
+rename Dune - Frank Herbert.pdf
+rename Software Engineering - Ian Sommerville.pdf
+rename Automate The Boring Stuff With Python.pdf
+rename Dune.pdf
+rename Learn Python The Hard Way 3rd Edition.pdf
+rename Software Engineering.pdf
+shell z
+filter python
+filter zsh
+shell git clone https://github.com/YoussefE95/BookManager
+shell sudo mv plasma-theme usr/local/bin/
+shell sudo mv plasma-theme usr/local/bin
+shell sudo mv plasma-theme /usr/local/bin
+rename Gruvbox Light.colors
+shell chmod +x plasma-theme
+rename GruvboxLight.colors
+rename Gruvbox.colors
+shell mkdir scripts
+shell mkdir theme-setter
+rename wallpapers
+shell touch .scripts
+shell 
+shell mkdir .scripts
+shell the
+shell mkdir theme
+shell touch kde_theme_pywal.py kde_theme.py kde_wall_setter.py
+shell touch KDE_Pywal_Color_Scheme_Generator.sh
 shell code .
+shell mkdir 'Final Project Presentation'
+delete
+
+shell git clone https://github.com/YoussefE95/Manjaro-Setup

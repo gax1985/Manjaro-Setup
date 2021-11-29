@@ -2,6 +2,34 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="112">
+  <name>One Dark Colours</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>prayagjain</author>
+  <homepage>https://store.kde.org/p/1571635</homepage>
+  <licence></licence>
+  <version>v1</version>
+  <rating>64</rating>
+  <downloads>6323</downloads>
+  <installedfile>/home/younix/.local/share/color-schemes/One-Dark-Blue.colors</installedfile>
+  <installedfile>/home/younix/.local/share/color-schemes/One-Dark-Yellow.colors</installedfile>
+  <installedfile>/home/younix/.local/share/color-schemes/One-Dark-Green.colors</installedfile>
+  <installedfile>/home/younix/.local/share/color-schemes/One-Dark-Red.colors</installedfile>
+  <id>1571635</id>
+  <releasedate>2021-08-09</releasedate>
+  <summary>-----&lt;br />
+Window Decorations/Aurorae Theme: https://www.pling.com/p/1571643/&lt;br />
+Icons: https://www.pling.com/p/1281798&lt;br />
+Wallpapers: https://www.pling.com/p/1571655/&lt;br />
+-----&lt;br />
+4 dark colour schemes based on the "One Dark" colour palette!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/2/b/f/8990b50961dff436a86fcea8e3f3f18a5b358909fd36a16b07d3fa10b9500c3cebeb.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/2/b/f/8990b50961dff436a86fcea8e3f3f18a5b358909fd36a16b07d3fa10b9500c3cebeb.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjg1MzIyNTAiLCJvIjoiMSIsInMiOiJhMmE1MDIzNGNlZTgyYzM3ZTIwNTQ2MzJjMDk5NGRjNjE2ODJkYWQ4YmFlNzM3NzE0NzM1ODY4MjI3OWM4MThmYmRmNWYzMGQxMDdkMjJmZjg0ZGM0NmNlYTM0YTYyMTE5ZDRkNTk2ZjIzYjU2M2YzOTNkZDI3ZjZhNjM3NzBhOSIsInQiOjE2MzYxODA2MTcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.n_FpgSKAJ5BJXTXMI8F9uyw-tNw3UckwfwCTjxM9v5E/One-Dark.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,colorscheme,gplv3,efi</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
   <name>Sweet Mars KDE</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
   <author>eliverlara</author>
@@ -38,28 +66,58 @@ Settings in screenshot:&lt;br />
   <status>installed</status>
  </stuff>
  <stuff category="112">
-  <name>Materia Dark KDE</name>
+  <name>McMojave Color</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>x-varlesh-x</author>
-  <homepage>https://store.kde.org/p/1229140</homepage>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1305007</homepage>
   <licence></licence>
-  <version>20210410</version>
-  <rating>70</rating>
-  <downloads>18064</downloads>
-  <installedfile>/home/younix/.local/share/color-schemes/MateriaDark.colors</installedfile>
-  <id>1229140</id>
-  <releasedate>2021-04-10</releasedate>
-  <summary>Materia pack for Plasma 5 desktop.&lt;br />
-&lt;br />
-Please use Kvantum Engine and Theme for better looking:&lt;br />
-https://www.pling.com/p/1229126&lt;br />
-&lt;br />
-Install full Materia pack from my collection.</summary>
+  <version></version>
+  <rating>67</rating>
+  <downloads>12105</downloads>
+  <installedfile>/home/younix/.local/share/color-schemes/McMojave.colors</installedfile>
+  <installedfile>/home/younix/.local/share/color-schemes/McMojaveLight.colors</installedfile>
+  <id>1305007</id>
+  <releasedate>2021-08-19</releasedate>
+  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
+-------------------------&lt;br />
+You can use this with:&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Aurorae Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305005/" target="_blank" rel="nofollow">https://www.pling.com/p/1305005/&lt;/a>&lt;br />
+&lt;strong>- Kvantum Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1304957/" target="_blank" rel="nofollow">https://www.pling.com/p/1304957/&lt;/a>&lt;br />
+&lt;strong>- Plasma Desktop Themes&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1305006/" target="_blank" rel="nofollow">https://www.pling.com/p/1305006/&lt;/a>&lt;br />
+&lt;strong>- Plasma Look-and-Feel Settings&lt;/strong>:&lt;br />
+&lt;a href="https://www.pling.com/p/1304936/" target="_blank" rel="nofollow">https://www.pling.com/p/1304936/&lt;/a>&lt;br />
+-------------------------&lt;br />
+&lt;strong>- Icon theme: McMojave-circle&lt;/strong>&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1305429" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1305429&lt;/a></summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998a9d114ec7e6fa21973997dd141c744bc2.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998a9d114ec7e6fa21973997dd141c744bc2.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTgwNDAxODciLCJvIjoiMSIsInMiOiI1MmIzYzc4ZGE4MTc0N2UyMTJmODg3NGRiNjM0NTAzMTk0MjQ0ZDkzYmMyNWU1ZGQ4YzIzYzIzYzczYmNiZGJmNzc5YmQxNGUzZTYxODY1NDVhYTRlZTFhN2EzNDA1YjJlNjg0MTJlZWU0NWM2OWQ4NTU4NmFjNjUyNDA4NGI2ZiIsInQiOjE2MzYxODI2NDksInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.42NN9qpUQ-kyPn6U4WgEZIbCsSm_BFsJ4vQAq0sWB98/MateriaDark.colors</payload>
-  <tags>gplv3,original-product,colorscheme,materia,material,linux,unix,theme,kde,plasma</tags>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjkzNzI3ODIiLCJvIjoiMSIsInMiOiJiNWZmZThlZGRkNjJhNWMxNjFmOTI1MTlhMGIyYjk2NTJlOTJjMTY4ODE0NjA0M2E4Mjc3MjdjMTMwYTZiNDFhMmE3M2M3ZGM1YTcxNzIyODI0OGUzZmJjNTY5N2M4YzZhMWNjYmJhODAwMTRlOWQ4ZGU1ZGU1NWIzZjNjNGFkNSIsInQiOjE2MzY5NTIyOTIsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.2uerQ68KbvRwy5OvnWkes00G96_8gA5ZJrBfKFosH24/color-schemes.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>One dark color theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1380822</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>61</rating>
+  <downloads>4755</downloads>
+  <installedfile>/home/younix/.local/share/color-schemes/OneDark.colors</installedfile>
+  <id>1380822</id>
+  <releasedate>2020-05-05</releasedate>
+  <summary>details soon</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg2NjIxMzgiLCJvIjoiMSIsInMiOiIyNGU2ZDJlMmU0YWZhNmM2OGQ2OWM2OTUzZGIyZWQwODY5YjM1N2VlYTlkNjAxYWZhY2MwNDZkYTUxYzNiNmE5OTg2NGYyNWJkMzEzOTdlYjM2YTVhMGYzYjFmOGI5NzVhMDJlNzY5ZGEzY2U4NzE3ZDlkMzE2MTBlMjE0Y2I0OSIsInQiOjE2MzYxODA2MzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.BrqVTz_mGP9qdxIbHPcqmqNnrt4xuZN0wp7PTVrGtt8/OneDark.colors.tar.gz</payload>
+  <tags>dark,plasma,kde,linux,unix,theme,colorscheme,cc-by-sa,original-product</tags>
   <status>installed</status>
  </stuff>
  <stuff category="112">
@@ -130,31 +188,57 @@ In this repository you'll find:&lt;br />
   <status>installed</status>
  </stuff>
  <stuff category="112">
-  <name>One Dark Colours</name>
+  <name>Ant-Dracula KDE</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>prayagjain</author>
-  <homepage>https://store.kde.org/p/1571635</homepage>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1370679</homepage>
   <licence></licence>
-  <version>v1</version>
-  <rating>64</rating>
-  <downloads>6323</downloads>
-  <installedfile>/home/younix/.local/share/color-schemes/One-Dark-Blue.colors</installedfile>
-  <installedfile>/home/younix/.local/share/color-schemes/One-Dark-Yellow.colors</installedfile>
-  <installedfile>/home/younix/.local/share/color-schemes/One-Dark-Green.colors</installedfile>
-  <installedfile>/home/younix/.local/share/color-schemes/One-Dark-Red.colors</installedfile>
-  <id>1571635</id>
-  <releasedate>2021-08-09</releasedate>
-  <summary>-----&lt;br />
-Window Decorations/Aurorae Theme: https://www.pling.com/p/1571643/&lt;br />
-Icons: https://www.pling.com/p/1281798&lt;br />
-Wallpapers: https://www.pling.com/p/1571655/&lt;br />
------&lt;br />
-4 dark colour schemes based on the "One Dark" colour palette!</summary>
+  <version></version>
+  <rating>69</rating>
+  <downloads>10076</downloads>
+  <installedfile>/home/younix/.local/share/color-schemes/Dracula.colors</installedfile>
+  <installedfile>/home/younix/.local/share/color-schemes/DraculaPurple.colors</installedfile>
+  <id>1370679</id>
+  <releasedate>2021-07-23</releasedate>
+  <summary>A dark theme created using the awesome &lt;a href="https://draculatheme.com/" target="_blank" rel="nofollow">Dracula&lt;/a> color palette.&lt;br />
+&lt;br />
+Suggested setings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370681/" target="_blank" rel="nofollow">Dracula Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370687/" target="_blank" rel="nofollow">Dracula Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1370682/" target="_blank" rel="nofollow">Draula Aurorae theme &lt;/a></summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/2/b/f/8990b50961dff436a86fcea8e3f3f18a5b358909fd36a16b07d3fa10b9500c3cebeb.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/2/b/f/8990b50961dff436a86fcea8e3f3f18a5b358909fd36a16b07d3fa10b9500c3cebeb.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjg1MzIyNTAiLCJvIjoiMSIsInMiOiJhMmE1MDIzNGNlZTgyYzM3ZTIwNTQ2MzJjMDk5NGRjNjE2ODJkYWQ4YmFlNzM3NzE0NzM1ODY4MjI3OWM4MThmYmRmNWYzMGQxMDdkMjJmZjg0ZGM0NmNlYTM0YTYyMTE5ZDRkNTk2ZjIzYjU2M2YzOTNkZDI3ZjZhNjM3NzBhOSIsInQiOjE2MzYxODA2MTcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.n_FpgSKAJ5BJXTXMI8F9uyw-tNw3UckwfwCTjxM9v5E/One-Dark.tar.gz</payload>
-  <tags>linux,unix,theme,kde,plasma,colorscheme,gplv3,efi</tags>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/3/0/5/de1573784da87ee7dd6656902af631e3bd8b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/3/0/5/de1573784da87ee7dd6656902af631e3bd8b.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjcwNzIzNDIiLCJvIjoiMSIsInMiOiI0MmJmZTQwYWQxNTNmMTRiZTBlZDYzNTcyZGU3ZDE0NzcyMzVkMjQ0NmFiZGVlZWMxMWU0ODc2ZGViNzEzMWI2MDYzMDYwOGFhNTZiZmIwZjUyMDljMTAyNmQ5MjJiZjdiZGE2OGY3NWExZjJhOWIzMzI1OTBiZDlmMzI0ZWIyOCIsInQiOjE2MzYxNzg2ODcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.YaMskQxX4kYKC7TTUsIVT4dpznCkHFAqLHqBXOoLC2I/Dracula.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Materia Dark KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1229140</homepage>
+  <licence></licence>
+  <version>20210410</version>
+  <rating>70</rating>
+  <downloads>18064</downloads>
+  <installedfile>/home/younix/.local/share/color-schemes/MateriaDark.colors</installedfile>
+  <id>1229140</id>
+  <releasedate>2021-04-10</releasedate>
+  <summary>Materia pack for Plasma 5 desktop.&lt;br />
+&lt;br />
+Please use Kvantum Engine and Theme for better looking:&lt;br />
+https://www.pling.com/p/1229126&lt;br />
+&lt;br />
+Install full Materia pack from my collection.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998a9d114ec7e6fa21973997dd141c744bc2.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/d/1/5/99c41b3a358c1d87fd833d6b327c9aaf998a9d114ec7e6fa21973997dd141c744bc2.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTgwNDAxODciLCJvIjoiMSIsInMiOiI1MmIzYzc4ZGE4MTc0N2UyMTJmODg3NGRiNjM0NTAzMTk0MjQ0ZDkzYmMyNWU1ZGQ4YzIzYzIzYzczYmNiZGJmNzc5YmQxNGUzZTYxODY1NDVhYTRlZTFhN2EzNDA1YjJlNjg0MTJlZWU0NWM2OWQ4NTU4NmFjNjUyNDA4NGI2ZiIsInQiOjE2MzYxODI2NDksInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.42NN9qpUQ-kyPn6U4WgEZIbCsSm_BFsJ4vQAq0sWB98/MateriaDark.colors</payload>
+  <tags>gplv3,original-product,colorscheme,materia,material,linux,unix,theme,kde,plasma</tags>
   <status>installed</status>
  </stuff>
  <stuff category="112">
@@ -187,41 +271,6 @@ Wallpapers: https://www.pling.com/p/1571655/&lt;br />
   <status>installed</status>
  </stuff>
  <stuff category="112">
-  <name>McMojave Color</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1305007</homepage>
-  <licence></licence>
-  <version></version>
-  <rating>67</rating>
-  <downloads>12105</downloads>
-  <installedfile>/home/younix/.local/share/color-schemes/McMojave.colors</installedfile>
-  <installedfile>/home/younix/.local/share/color-schemes/McMojaveLight.colors</installedfile>
-  <id>1305007</id>
-  <releasedate>2021-08-19</releasedate>
-  <summary>McMojave kde is a MacOSX Mojave like theme for KDE Plasma desktop.&lt;br />
--------------------------&lt;br />
-You can use this with:&lt;br />
--------------------------&lt;br />
-&lt;strong>- Aurorae Themes&lt;/strong>:&lt;br />
-&lt;a href="https://www.pling.com/p/1305005/" target="_blank" rel="nofollow">https://www.pling.com/p/1305005/&lt;/a>&lt;br />
-&lt;strong>- Kvantum Themes&lt;/strong>:&lt;br />
-&lt;a href="https://www.pling.com/p/1304957/" target="_blank" rel="nofollow">https://www.pling.com/p/1304957/&lt;/a>&lt;br />
-&lt;strong>- Plasma Desktop Themes&lt;/strong>:&lt;br />
-&lt;a href="https://www.pling.com/p/1305006/" target="_blank" rel="nofollow">https://www.pling.com/p/1305006/&lt;/a>&lt;br />
-&lt;strong>- Plasma Look-and-Feel Settings&lt;/strong>:&lt;br />
-&lt;a href="https://www.pling.com/p/1304936/" target="_blank" rel="nofollow">https://www.pling.com/p/1304936/&lt;/a>&lt;br />
--------------------------&lt;br />
-&lt;strong>- Icon theme: McMojave-circle&lt;/strong>&lt;br />
-&lt;a href="https://www.opendesktop.org/p/1305429" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1305429&lt;/a></summary>
-  <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/2/b/3/0cffc96cd6e5caf6ce8b4f66b7ea7290025c.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjkzNzI3ODIiLCJvIjoiMSIsInMiOiJiNWZmZThlZGRkNjJhNWMxNjFmOTI1MTlhMGIyYjk2NTJlOTJjMTY4ODE0NjA0M2E4Mjc3MjdjMTMwYTZiNDFhMmE3M2M3ZGM1YTcxNzIyODI0OGUzZmJjNTY5N2M4YzZhMWNjYmJhODAwMTRlOWQ4ZGU1ZGU1NWIzZjNjNGFkNSIsInQiOjE2MzY5NTIyOTIsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.2uerQ68KbvRwy5OvnWkes00G96_8gA5ZJrBfKFosH24/color-schemes.tar.xz</payload>
-  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
   <name>Nordic darker KDE</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
   <author>eliverlara</author>
@@ -238,99 +287,6 @@ You can use this with:&lt;br />
   <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/2/2/0/e993b51bc83f33e12484d08c32ba614be041012bba9ee85e019a3709330ca12d14a2.png</preview>
   <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/2/2/0/e993b51bc83f33e12484d08c32ba614be041012bba9ee85e019a3709330ca12d14a2.png</previewBig>
   <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzU0NTQ5NzAiLCJvIjoiMSIsInMiOiI2NWYwZDEzMTc0ZWIzNDIyOTY4NTgyYzdmYTFjZjAxMmI1Y2I5NjkxOWFiOWIyYjE5YWYxNjUyYWM5ZDBlMTkyZTUzMDU5NWVkZTY2YzM1Njc5NjIxNzUxYmJhZWE2YzE5MzI3ZWZkMDA2MzhiM2Y1MTU4N2EwNDE0NzU2NjY2NCIsInQiOjE2MzYxNzg2NDAsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.01GXfdGPIKhwUcMXg9FyA6ltbU9p8a8TSUX-KnURJ0I/NordicDarker.colors</payload>
-  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>Gruvbox plasma colors</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>adhe</author>
-  <homepage>https://store.kde.org/p/1327717</homepage>
-  <licence></licence>
-  <version>0.1</version>
-  <rating>60</rating>
-  <downloads>28128</downloads>
-  <installedfile>/home/younix/.local/share/color-schemes/GruvboxColors.colors</installedfile>
-  <id>1327717</id>
-  <releasedate>2019-09-29</releasedate>
-  <summary>&lt;span style="text-decoration: underline;">&lt;strong>Gruvbox color scheme for Plasma&lt;/strong>&lt;/span>&lt;br />
-&lt;br />
-Based on the gruvbox scheme colors for vim [https://github.com/morhetz/gruvbox](https://github.com/morhetz/gruvbox).&lt;br />
-&lt;br />
-&lt;span style="color: #282828;">◼&lt;/span>&lt;span...</summary>
-  <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/2/a/8/e4540e5c3b1a654c897bee697df1588ce8b7.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk3MzExOTUiLCJvIjoiMSIsInMiOiI4N2MwNDQyZThiNmRmYWM4MDBhOTkwZDFmMzNlYWZkMDQ5YjJkYjc2ZmZlNTQ4ZjliZDJmM2JiYjEyYzQ0NTNlNTUwMmE0YTBlYjM3YjAwY2RlZjA5NjgyZTI3NTgyMDlhZTVhMjAwYWY0OGVjM2VkZTlhYjQ3MjMwNjZlNDMyNyIsInQiOjE2MzYxNzg2NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.7j3qgcVNH8746pthpDeo3lNir7XSxMkpmXa83Rz3CP4/GruvboxColors.colors.tar.gz</payload>
-  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>Gruvbox Light - Red</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>mat64</author>
-  <homepage>https://store.kde.org/p/1334606</homepage>
-  <licence></licence>
-  <version>1.0</version>
-  <rating>50</rating>
-  <downloads>1163</downloads>
-  <installedfile>/home/younix/.local/share/color-schemes/Gruvbox Light - Red two-tone 2.colors</installedfile>
-  <id>1334606</id>
-  <releasedate>2019-11-06</releasedate>
-  <summary>Light colorscheme based on the Vim gruvbox color scheme. (https://github.com/morhetz/gruvbox) Textboxes and buttons are lighter (gruvbox color bg, #fbf1c7) than the rest of the window (bg1, #ebdbb2), for a nice two-tone effect. Text color is gruvbox color fg0 (#262626), red is #cc241d. &lt;br...</summary>
-  <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/c/0/5/40d2e16f72ddfce9a186bd3095ac40d6bec6.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/c/0/5/40d2e16f72ddfce9a186bd3095ac40d6bec6.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzI5OTIyMjMiLCJvIjoiMSIsInMiOiIxZThjOTcwNmM1YzY5NWE5NDVhOGU0YjZkMWI4NzlmNzhhYjcyYjY4NGQwZTliY2M0YWIyMTAzYzAzOTAwNTU3NjA2NzgzNzY2NTIxNWI4ZTA5NjIxYmJhOGNlZTQzN2M4ZWM2ZTMxNmM2YjY5OGRkZDJhN2JmYTJhZjY4NjJjZCIsInQiOjE2MzYxODQzNjEsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.l9fAU6pgydeFQDgRKBYzLIEoQALYy6YG3WhoW4qvvhU/Gruvbox Light - Red two-tone 2.colors</payload>
-  <tags>linux,unix,theme,kde,plasma,colorscheme,gruvbox,warm,red</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>One dark color theme</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>adhe</author>
-  <homepage>https://store.kde.org/p/1380822</homepage>
-  <licence></licence>
-  <version>0.1</version>
-  <rating>61</rating>
-  <downloads>4755</downloads>
-  <installedfile>/home/younix/.local/share/color-schemes/OneDark.colors</installedfile>
-  <id>1380822</id>
-  <releasedate>2020-05-05</releasedate>
-  <summary>details soon</summary>
-  <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/4/4/6/4ec3dcf8f7a81b103081696637400febe38c.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODg2NjIxMzgiLCJvIjoiMSIsInMiOiIyNGU2ZDJlMmU0YWZhNmM2OGQ2OWM2OTUzZGIyZWQwODY5YjM1N2VlYTlkNjAxYWZhY2MwNDZkYTUxYzNiNmE5OTg2NGYyNWJkMzEzOTdlYjM2YTVhMGYzYjFmOGI5NzVhMDJlNzY5ZGEzY2U4NzE3ZDlkMzE2MTBlMjE0Y2I0OSIsInQiOjE2MzYxODA2MzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.BrqVTz_mGP9qdxIbHPcqmqNnrt4xuZN0wp7PTVrGtt8/OneDark.colors.tar.gz</payload>
-  <tags>dark,plasma,kde,linux,unix,theme,colorscheme,cc-by-sa,original-product</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>Ant-Dracula KDE</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>eliverlara</author>
-  <homepage>https://store.kde.org/p/1370679</homepage>
-  <licence></licence>
-  <version></version>
-  <rating>69</rating>
-  <downloads>10076</downloads>
-  <installedfile>/home/younix/.local/share/color-schemes/Dracula.colors</installedfile>
-  <installedfile>/home/younix/.local/share/color-schemes/DraculaPurple.colors</installedfile>
-  <id>1370679</id>
-  <releasedate>2021-07-23</releasedate>
-  <summary>A dark theme created using the awesome &lt;a href="https://draculatheme.com/" target="_blank" rel="nofollow">Dracula&lt;/a> color palette.&lt;br />
-&lt;br />
-Suggested setings: &lt;br />
-&lt;br />
-&lt;a href="https://store.kde.org/p/1370681/" target="_blank" rel="nofollow">Dracula Kvantum theme&lt;/a>&lt;br />
-&lt;br />
-&lt;a href="https://store.kde.org/p/1370687/" target="_blank" rel="nofollow">Dracula Plasma theme&lt;/a>&lt;br />
-&lt;br />
-&lt;a href="https://store.kde.org/p/1370682/" target="_blank" rel="nofollow">Draula Aurorae theme &lt;/a></summary>
-  <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/3/0/5/de1573784da87ee7dd6656902af631e3bd8b.png</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/3/0/5/de1573784da87ee7dd6656902af631e3bd8b.png</previewBig>
-  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjcwNzIzNDIiLCJvIjoiMSIsInMiOiI0MmJmZTQwYWQxNTNmMTRiZTBlZDYzNTcyZGU3ZDE0NzcyMzVkMjQ0NmFiZGVlZWMxMWU0ODc2ZGViNzEzMWI2MDYzMDYwOGFhNTZiZmIwZjUyMDljMTAyNmQ5MjJiZjdiZGE2OGY3NWExZjJhOWIzMzI1OTBiZDlmMzI0ZWIyOCIsInQiOjE2MzYxNzg2ODcsInN0ZnAiOm51bGwsInN0aXAiOiIxNzIuMTE2Ljk1LjQ2In0.YaMskQxX4kYKC7TTUsIVT4dpznCkHFAqLHqBXOoLC2I/Dracula.tar.xz</payload>
   <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
   <status>installed</status>
  </stuff>

@@ -9,12 +9,9 @@ if [[ -e /usr/share/zsh/manjaro-zsh-prompt ]]; then
   source /usr/share/zsh/manjaro-zsh-prompt
 fi
 
-# Set python path
-export PYTHONPATH=/home/younix/.py
-
 alias rang='source ranger'
 alias vpn='expressvpn'
 alias py='python3'
-alias theme="py $PYTHONPATH/kde_set.py"
-alias disc-gruv="py -m beautifuldiscord --css ~/.config/beautdisc/gruvbox.css"
-alias disc-one="py -m beautifuldiscord --css ~/.config/beautdisc/one.css"
+alias theme="py $HOME/.scripts/theme/pywal_kde_theme.py"
+
+wal -qR
