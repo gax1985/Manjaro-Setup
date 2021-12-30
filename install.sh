@@ -19,6 +19,9 @@ sudo systemctl start expressvpn
 # configure spotify for spicetify
 sudo chmod a+wr /opt/spotify
 sudo chmod a+wr /opt/spotify/Apps -R
+spicetify config extensions dribbblish.js
+spicetify config current_theme Dribbblish color_scheme pywal
+spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
 spicetify backup
 
 # sudo chmod ugo+rwx /usr/share/zsh
