@@ -29,7 +29,7 @@ def set_wall(theme):
 
 
 def set_kde():
-    path = f'/home/{os.environ["USER"]}/.scripts/theme/'
+    path = f'/home/{os.environ["USER"]}/.global_pywal_setter/'
     path += 'KDE_Pywal_Color_Scheme_Generator.sh'
     subprocess.call(['sh', path])
 
@@ -39,13 +39,13 @@ def set_kde():
 
 
 def set_discord():
-    path = f'/home/{os.environ["USER"]}/.scripts/theme/'
+    path = f'/home/{os.environ["USER"]}/.global_pywal_setter/'
     path += 'Discord_Color_Generator.sh'
     subprocess.call(['sh', path])
 
 
 def set_spotify():
-    path = f'/home/{os.environ["USER"]}/.scripts/theme/'
+    path = f'/home/{os.environ["USER"]}/.global_pywal_setter/'
     path += 'Spicetify_Color_Generator.sh'
     subprocess.call(['sh', path])
 
