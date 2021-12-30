@@ -12,6 +12,6 @@ fi
 alias rang='source ranger'
 alias vpn='expressvpn'
 alias py='python3'
-alias theme="py $HOME/.scripts/theme/pywal_kde_theme.py"
+alias theme="py $HOME/.global_pywal_setter/pywal_kde_theme.py"
 
 wal -qR

@@ -38,9 +38,26 @@ def set_kde():
     subprocess.run(cmd.split())
 
 
+def set_discord():
+    path = f'/home/{os.environ["USER"]}/.scripts/theme/'
+    path += 'Discord_Color_Generator.sh'
+    subprocess.call(['sh', path])
+
+
+def set_spotify():
+    path = f'/home/{os.environ["USER"]}/.scripts/theme/'
+    path += 'Spicetify_Color_Generator.sh'
+    subprocess.call(['sh', path])
+
+    cmd = 'spicetify apply'
+    subprocess.run(cmd.split())
+
+
 if __name__ == "__main__":
     new_theme = str(sys.argv[1]).lower()
     if supported(new_theme):
         set_wall(new_theme)
         set_kde()
+        set_discord()
+        set_spotify()
         subprocess.run('clear')
