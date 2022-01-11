@@ -1,3 +1,5 @@
+# Idea from: https://github.com/dylanaraps/pywal/issues/264
+
 dest_dir="$HOME/.config/beautdisc/"
 dest_file="pywal.css"
 
