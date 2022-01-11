@@ -43,8 +43,8 @@ DecorationHover=$(get_xres_rgb color15:)
 
 [Colors:View]
 BackgroundNormal=$(get_xres_rgb background:)
-ForegroundNormal=$(get_xres_rgb foreground:)
 BackgroundAlternate=$(get_xres_rgb background:)
+ForegroundNormal=$(get_xres_rgb foreground:)
 DecorationFocus=$(get_xres_rgb color15:)
 DecorationHover=$(get_xres_rgb color15:)
 

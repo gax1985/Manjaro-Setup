@@ -38,6 +38,12 @@ def set_kde():
     subprocess.run(cmd.split())
 
 
+def set_terminal():
+    path = f'/home/{os.environ["USER"]}/.global_pywal_setter/'
+    path += 'Alacritty_Color_Generator.sh'
+    subprocess.call(['sh', path])
+
+
 def set_discord():
     path = f'/home/{os.environ["USER"]}/.global_pywal_setter/'
     path += 'Discord_Color_Generator.sh'
@@ -58,6 +64,7 @@ if __name__ == "__main__":
     if supported(new_theme):
         set_wall(new_theme)
         set_kde()
+        set_terminal()
         set_discord()
         set_spotify()
         subprocess.run('clear')
