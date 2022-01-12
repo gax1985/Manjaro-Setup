@@ -3,7 +3,7 @@ from kde_wall_setter import setwallpaper
 
 
 def supported(theme):
-    supported_themes = ['low', 'med', 'hi']
+    supported_themes = ['low', 'med', 'hi', 'solid']
 
     if theme in supported_themes:
         return True
