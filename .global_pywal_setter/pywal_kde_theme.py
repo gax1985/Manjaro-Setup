@@ -1,4 +1,4 @@
-import os, sys, random, subprocess
+import os, sys, random, subprocess, psutil
 from kde_wall_setter import setwallpaper
 
 
@@ -55,8 +55,10 @@ def set_spotify():
     path += 'Spicetify_Color_Generator.sh'
     subprocess.call(['sh', path])
 
-    cmd = 'spicetify apply'
-    subprocess.run(cmd.split())
+    for proc in psutil.process_iter():
+        if 'spotify' in proc.name().lower():
+            cmd = 'spicetify apply'
+            subprocess.run(cmd.split())
 
 
 if __name__ == "__main__":
