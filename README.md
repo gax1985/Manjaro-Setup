@@ -4,9 +4,11 @@
 * These are all the necessary files to get Manjaro/KDE set up to my preferences; install.sh places all of them where they belong.
 
 ## Global Pywal Setter
+
 <p align='center'>
     <img src='screens.gif'>
 </p>
+
 ### How it works:
 * The sh files are templates which output a new file with updated color values after pywal is called.
 * kde_wall_setter.py sets the wallpaper in KDE (pywal's background change doesn't work with KDE).
