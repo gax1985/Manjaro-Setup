@@ -1,4 +1,8 @@
 # Manjaro/KDE Setup Files
+<p align='center'>
+    <img src='screens.gif'>
+</p>
+
 ## Description
 * These are all the necessary files to get Manjaro/KDE set up to my preferences; install.sh places all of them where they belong.
 
