@@ -9,8 +9,8 @@
 ## Global Pywal Setter
 ### How it works:
 * The sh files are templates which output a new file with updated color values after pywal is called.
-* kde_wall_setter.py sets the wallpaper in KDE (for some reason pywal doesnt do that on its own in KDE).
-* pywal_kde_theme.py expects a theme name when being called. It will find and set a random wallpaper according to the given theme (in .wallpapers). It then updates KDE, Alacritty, Discord, and Spotify.
+* kde_wall_setter.py sets the wallpaper in KDE (pywal's background change doesn't work with KDE).
+* pywal_kde_theme.py expects a theme name when being called. It will find and set a random wallpaper according to the given theme (in .wallpapers). It then calls Pywal with that random wallpaper as the input argument and, finally, it updates KDE, Alacritty, Discord, and Spotify according to the newly generated Pywal color scheme.
 ### How to install on your system:
 1. You will need to have Pywal, Discord, BeautifulDiscord, Spotify, and Spicetify installed. Konsole will not work with Pywal, so you will have to get another terminal emulator which will work with Pywal (I recommend Alacritty).
 2. Copy the necessary files:
