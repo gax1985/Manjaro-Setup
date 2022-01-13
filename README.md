@@ -22,6 +22,14 @@
     ```bash
     echo 'alias theme="py $HOME/.global_pywal_setter/pywal_kde_theme.py"' >> ~/.bashrc
     ```
+### How to use:
+* Example calls with different themes:
+    ```bash
+    theme low
+    theme med
+    theme hi
+    theme solid
+    ```
 ### How to customize for yourself:
 * If there's something (Alacritty, Discord, etc) you don't want updated with new themes:
   * Remove its respective method and method call from pywal_kde_theme.py
