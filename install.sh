@@ -26,6 +26,4 @@ spicetify config current_theme Dribbblish color_scheme pywal
 spicetify config inject_css 1 replace_colors 1 overwrite_assets 1
 spicetify backup
 
-# sudo chmod ugo+rwx /usr/share/zsh
 # p10k configure
-# sudo chmod ugo-w /usr/share/zsh
