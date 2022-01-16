@@ -7,7 +7,7 @@
 ## Global Pywal Setter
 
 <p align='center'>
-    <img src='screens.gif'>
+    <img src='screens.gifv'>
 </p>
 
 ### How it works:

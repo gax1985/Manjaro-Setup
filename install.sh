@@ -2,8 +2,8 @@
 sudo pacman-mirrors --fasttrack 5 && sudo pacman -Syyu
 
 # install usual apps
-sudo pacman -S yay alacritty ttf-meslo-nerd-font-powerlevel10k ranger neofetch cmatrix discord python-pywal base-devel
-yay -S dropbox visual-studio-code-bin expressvpn spotify tutanota-desktop-bin todoist gotop-bin spicetify-cli
+sudo pacman -S yay base-devel
+yay -S alacritty ttf-meslo-nerd-font-powerlevel10k ttf-raleway ranger neofetch cmatrix gotop-bin discord dropbox visual-studio-code-bin expressvpn spotify spicetify-cli python-pywal libreoffice-fresh
 
 # install beautiful discord and pywalfox
 python3 -m pip install -U https://github.com/leovoel/BeautifulDiscord/archive/master.zip
